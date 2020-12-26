@@ -1,0 +1,32 @@
+*{margin: 0; padding: 0;}
+p{
+  color: white;
+  margin-left: 38%;
+  margin-top: 0%;
+  margin-right: 10%;
+  align: right;
+  padding-top: 20px;
+  padding-bottom: 10px;
+
+}
+
+#personagens{
+  color: green;}
+
+.Sinopse{
+  background-color:#112F41;}
+
+.Titulo{
+  background-color:Black;
+}
+
+div img{
+  padding-top: 20px;
+  padding-left: 10px;
+  width: 35%;
+  height: 300px;
+  align:left ;}
+
+a:hover{
+  color: red;}
+

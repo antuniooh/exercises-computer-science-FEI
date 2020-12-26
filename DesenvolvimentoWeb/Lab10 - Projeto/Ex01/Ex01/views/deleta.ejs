@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Deletar por Autor</title>
+</head>
+<body>
+<h1>Busca por Marca</h1>
+<a href="/">
+	<img src="livros.png" height="200">
+</a>
+<ul>
+    <li>
+        <a href="/cadastra">Cadastra Livros</a>
+    </li>
+    <li>
+        <a href="/buscar">Busca Livro por Autor</a>
+    </li>
+	 <li>
+        <a href="/deleta">Deletar Livro por Autor</a>
+    </li>
+</ul>
+
+<form action="/deletar" method="post">
+    <!--<table>
+        <td>Marca:</td><td><input type="text" name="nome"></td>
+    </tr>
+        <td><input type="submit" name="envia" value="Eliminar"></td>
+    </tr>
+    </table>-->
+    <select name="autorB">
+    <option value="-1">
+        ...Escolha um autor..
+    </option>
+
+    <%
+    var i=0;
+    for(i=0; i<livros.length; i++){
+    %>
+    <option value="<%=livros[i]%>">
+        <%=livros[i]%>
+    </option>
+    <%
+    }
+    %>
+    </select>
+	<input type="submit" id="envia" value="Eliminar">
+</form>
+
+</body>
+</html>

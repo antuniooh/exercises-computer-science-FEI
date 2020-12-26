@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ProjetoWeb_04</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fafafa">
+
+  <script>
+
+    function maiusculo() {
+      var txt = document.getElementById("text");
+      txt.value = txt.value.toUpperCase();
+    }
+
+    function link() {
+      var edit = document.getElementById("links").value;
+      var link = document.getElementById("link");
+      link.setAttribute('href',edit);
+    }
+  </script>
+
+</head>
+
+<body>
+  <form>
+    <label>Maiusculo: </label><br>
+    <input id="text" type="text"  name="text">
+    <input type="button" value="CAPS" onclick= "maiusculo();">
+
+    <br><br>
+    <label>Link: </label><br>
+    <a href="google.com.br" id="link" >Link</a>
+    <input id="links" type="text"  name="links">
+    <input type="button" value="Link" onclick= "link();">
+  </form>
+
+
+</body>
+
+</html>

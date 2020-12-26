@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de usuários</title>
+</head>
+<body>
+<h1>Cadastro de Usuários</h1>
+    <img src="lista.jpg" width="200px" height="200px"><br>
+<div class="menu">
+    <ul>
+        <li><a href="/login">Login</a> </li>
+        <li><a href="/cadastro">Cadastrar</a> </li>
+        <li><a href="/lista">Listar</a> </li>
+    </ul>
+</div>
+
+<form action = "/cadastro" method="post">
+<label>Login: </label>
+    <input type="text" name="login" ><br>
+    <label>Nome: </label>
+    <input type="text" name="nome"><br>
+    <label>Senha: </label>
+    <input type="password" name="senha" ><br><br>
+    <input type="submit" id ="enviar" value="Cadastrar" >
+</form>
+
+<h2> <%=mensagem%> </h2>
+
+</body>
+</html>

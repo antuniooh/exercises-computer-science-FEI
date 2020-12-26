@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de Usuários</title>
+    <style>
+        .table{width: 30%;}
+        /*Definido cor das linhas pares*/
+        .table tr:nth-child(even) {
+            background: #FFFFFF;
+        }
+        /*Definindo cor das Linhas impáres*/
+        .table tr:nth-child(odd) {
+
+            background: #000000;
+            color: #FFFFFF;
+        }
+        button{
+            background-color: blueviolet;
+            color: #FFFFFF;}
+    </style>
+</head>
+<body>
+<h1>Lista de Usuários</h1>
+<img src="lista.jpg" width="200px" height="200px"><br>
+
+<table class="table">
+    <tr>
+        <td>Login</td>
+        <td>Nome</td>
+        <td>Senha</td>
+    </tr>
+
+    <%
+    for(i = 0; i < lista.length; i++)
+    {
+
+    %>
+    <tr>
+        <td><%= lista[i].login %></td>
+        <td><%= lista[i].nome %></td>
+        <td><%= lista[i].senha %></td>
+    </tr>
+
+    <% } %>
+
+</table>
+<br>
+
+<form action="\limpa" method="get">
+    <button name="limpa">Limpa Lista</button>
+</form>
+    <a href="index"><button>Novo Cadastro</button></a>
+
+</body>
+</html>
