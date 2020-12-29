@@ -1,0 +1,2 @@
+Nome: antonio sobrenome: gustavo idade: 18 cpf: 522222 sexo: masculino
+Nome: aaaa sobrenome: aaaa idade: 18 cpf: 12 sexo: nao selecionado

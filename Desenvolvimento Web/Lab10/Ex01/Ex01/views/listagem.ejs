@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    
+</head>
+<body>
+<h1>Lista de livros do autor: <%=livros[0].autor%> </h1>
+<a href="/">
+	<img src="livro.png" height="200">
+</a>
+<ul>
+    <li>
+        <a href="/cadastra">Cadastra Livro</a>
+    </li>
+    <li>
+        <a href="/buscar">Busca Livro por Autor</a>
+    </li>
+    <li>
+        <a href="/deleta">Deletar Livro por Autor</a>
+    </li>
+</ul>
+
+
+
+<table border="1">
+
+    <tr>
+        <th>Livro</th>
+        <th>Autor</th>
+    </tr>
+    
+    <% for(var i=0; i < livros.length; i++){ %>
+        <tr>
+            <td><%= livros[i].titulo %></td>
+            <td><%= livros[i].autor %></td>
+        </tr>
+    <%}%>
+</table>
+
+</body>
+</html>

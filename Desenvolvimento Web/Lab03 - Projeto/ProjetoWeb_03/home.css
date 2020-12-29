@@ -1,0 +1,19 @@
+.home{
+	font-family: Century Gothic;}
+
+.home table{
+	float: center;
+	margin-left: 20%;
+	margin-right: 20%;
+margin-top: 10%;}
+
+.home img{
+	width: 250px;
+	height: 250px;
+}
+
+.home p {font-size: 16px;
+			text-align: left;}
+
+.home h1 {font-size: 32px;
+			text-align: left;}

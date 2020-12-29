@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link href="login.css" rel="stylesheet">
+</head>
+<body>
+<div class="login">
+    <h1><b>Login de usuário</b></h1>
+    <div class="form">
+        <form action="/login" method="post" class="login-form">
+            <input type="text" placeholder="username" name="loginUsername" />
+            <input type="password" placeholder="password" name="loginSenha" />
+            <button type="submit" id="login" value="Login">LOGIN</button>
+        </form>
+        <p><a href="/cadastro">Deseja cadastrar um usuário?</a></p>
+    </div>
+    <div class="imagem">
+        <img src="user.ico">
+    </div>
+    <h1 class="mensagem"> <%=mensagem%> </h1>
+</div>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de Livros</title>
+</head>
+<body>
+<h1>Cadastro</h1>
+<img src="livros.png" height="200">
+<ul>
+    <li>
+        <a href="/cadastra">Cadastra Livro</a>
+    </li>
+    <li>
+        <a href="/buscar">Busca Livro por Autor</a>
+    </li>
+	<li>
+        <a href="/deleta">Deletar Livro por Autor</a>
+    </li>
+</ul>
+
+<form action="/cadastra" method="post">
+    <table>
+    <tr>
+        <td>Titulo:</td><td><input type="text" name="titulo1"></td>
+    </tr>
+    <tr>
+        <td>Autor:</td><td><input type="text" name="autor1"></td>
+    </tr>
+    <tr>
+        <td><input type="submit" name="envia" value="Enviar"></td>
+    </tr>
+    </table>
+</form>
+
+</body>
+</html>

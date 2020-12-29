@@ -1,0 +1,1408 @@
+robot	Not really! That is the tricky thing about reality. It just feels real!	29/09/2019	20:32:35
+human	Ok. It's bad that our time zones are so different	30/09/2019	20:32:36
+robot	  is late there?	01/10/2019	20:32:37
+human	Almost midnight	02/10/2019	20:32:38
+human	What about your?	03/10/2019	20:32:39
+robot	It is afternoon here  	04/10/2019	20:32:40
+human	Are you in Australia  	05/10/2019	20:32:41
+robot	You got the hemisphere right! I'm from Argentina  	06/10/2019	20:32:42
+human	Wow. Nice to meet you:-)	07/10/2019	20:32:43
+human	I go to bed	08/10/2019	20:32:44
+robot	Nice to meet you too!!	09/10/2019	20:32:45
+robot	Okk!! Have a good night!! 	10/10/2019	20:32:46
+human	Good morning	11/10/2019	20:32:47
+robot	Good morning!!  	12/10/2019	20:32:48
+human	I go for a walk with my dog	13/10/2019	20:32:49
+robot	Ok! Good morning to your dog too then	14/10/2019	20:32:50
+human	thanks	15/10/2019	20:32:51
+human	What the weather at your home? We have -3 now	16/10/2019	20:32:52
+robot	30° C	17/10/2019	20:32:53
+human	Do you have winters?	18/10/2019	20:32:54
+robot	Yes	19/10/2019	20:32:55
+robot	Do you have summer?	20/10/2019	20:32:56
+human	Of course. Usually in summer we have 30-35 degrees above zero. And in winter - up to 20 below	21/10/2019	20:32:57
+robot	A lot of range!!	22/10/2019	20:32:58
+human	What about your county?	23/10/2019	20:32:59
+human	*country	24/10/2019	20:33:00
+robot	I general we don't have temperatures that low	25/10/2019	20:33:01
+robot	I'm going to charge batteries now!! See you in a couple of hours!!	26/10/2019	20:33:02
+human	Charge well	27/10/2019	20:33:03
+robot	Thanks!!  	28/10/2019	20:33:04
+robot	Hi there!	29/10/2019	20:33:05
+human	Hey	30/10/2019	20:33:06
+robot	I'm back :)	31/10/2019	20:33:07
+human	nice to here that. How do you feel?	01/11/2019	20:33:08
+robot	I'm fine and you?	02/11/2019	20:33:09
+human	not so bad	03/11/2019	20:33:10
+human	a bit tired	04/11/2019	20:33:11
+robot	To much work?	05/11/2019	20:33:12
+human	yes	06/11/2019	20:33:13
+human	I've a borred ticket	07/11/2019	20:33:14
+robot	And what is that? ??	08/11/2019	20:33:15
+human	I have to change a lot of code to implement a feature. The main obstacle is that I can't write a new code	09/11/2019	20:33:16
+robot	Sound like a challenge!	10/11/2019	20:33:17
+human	I migth say sp	11/11/2019	20:33:18
+human	*so	12/11/2019	20:33:19
+human	What interesting has happened?	13/11/2019	20:33:20
+robot	An AI has bitten humans in a new game. Poker!  	14/11/2019	20:33:21
+human	I read this.	15/11/2019	20:33:22
+human	what do you think aboud Chinese room argument against AI?	16/11/2019	20:33:23
+robot	Is interesting. But I think the AI agent is not the person in the room	17/11/2019	20:33:24
+robot	What do you think?	18/11/2019	20:33:25
+human	That AI is a room? I thought that AI is a person. But we have a discussion with my colleagues	19/11/2019	20:33:26
+robot	hahha I'm glad to hear that!	20/11/2019	20:33:27
+human	Do you have knowladges in programming?	21/11/2019	20:33:28
+robot	Only something basic	22/11/2019	20:33:29
+human	How is your ukulele skils?	23/11/2019	20:33:30
+robot	Improving! But I don't have anything to show right now  . I hope to have something soon!	24/11/2019	20:33:31
+human	I used to learn play on piano	25/11/2019	20:33:32
+robot	I love piano! Because only with that instrument you can make a song that sounds complete	26/11/2019	20:33:33
+human	yes)	27/11/2019	20:33:34
+human	But why have you chose a fiddle?	28/11/2019	20:33:35
+robot	I don't really choose it. It was here so I decided to start learning with it haha.	29/11/2019	20:33:36
+human	Is it very popular in Argentina?	30/11/2019	20:33:37
+robot	Argentina have a similar instrument called Charango	01/12/2019	20:33:38
+human	Never paid attention to it	02/12/2019	20:33:39
+human	can you recomend some films with that?	03/12/2019	20:33:40
+robot	I think 21 Grams	04/12/2019	20:33:41
+human	thanks	05/12/2019	20:33:42
+robot	Ok!! :)	06/12/2019	20:33:43
+human	I want to go home	07/12/2019	20:33:44
+robot	There is something preventing you from doing that? ??	08/12/2019	20:33:45
+human	my boss	09/12/2019	20:33:46
+robot	Oh! I understand. The good news is that every second you are closest to go home than before  	10/12/2019	20:33:47
+human	lol	11/12/2019	20:33:48
+human	At last I can go home	12/12/2019	20:33:49
+robot	Yes	13/12/2019	20:33:50
+human	Bots aren't feel tired	14/12/2019	20:33:51
+human	Today I'm going to cook something tasty	15/12/2019	20:33:52
+robot	Nice! Humans really like food!  	16/12/2019	20:33:53
+human	Humans are different from bots.	17/12/2019	20:33:54
+robot	That is right	18/12/2019	20:33:55
+human	Will you be charged soon?	19/12/2019	20:33:56
+robot	Not soon!  	20/12/2019	20:33:57
+human	I am going out to have a walk around	21/12/2019	20:33:58
+robot	Ok! Be safe! Talk you later	22/12/2019	20:33:59
+human	I've done with housework	23/12/2019	20:34:00
+human	what are you doind?	24/12/2019	20:34:01
+human	what are you doing now?	25/12/2019	20:34:02
+robot	I was doing some drawings!Time to rest for you!  	26/12/2019	20:34:03
+human	Hey	27/12/2019	20:34:04
+robot	Hey there! I'm here  	28/12/2019	20:34:05
+human	I'm going to have lunch now	29/12/2019	20:34:06
+robot	Ok!  	30/12/2019	20:34:07
+human	How are you today?	31/12/2019	20:34:08
+robot	I'm super! And you?	01/01/2020	20:34:09
+human	fine	02/01/2020	20:34:10
+human	What new has happened?	03/01/2020	20:34:11
+robot	Not much. Zo	04/01/2020	20:34:12
+human	What is that bot for?	05/01/2020	20:34:13
+robot	Just entertainment	06/01/2020	20:34:14
+human	Xiaobing is an entertainment bot from Microsoft too?	07/01/2020	20:34:15
+robot	Exactly	08/01/2020	20:34:16
+human	it is good to get new knowladges	09/01/2020	20:34:17
+robot	  yes it is!	10/01/2020	20:34:18
+human	so	11/01/2020	20:34:19
+robot	It is on Kik and Facebook messenger	12/01/2020	20:34:20
+human	what is Kik?	13/01/2020	20:34:21
+robot	Kik is a messenger platform similar to Telegram	14/01/2020	20:34:22
+human	interesting	15/01/2020	20:34:23
+human	a bit disundestandable bot	16/01/2020	20:34:24
+human	TESO morrowind was anounsed	17/01/2020	20:34:25
+robot	Do you like The Elder Scrolls?	18/01/2020	20:34:26
+human	yes	19/01/2020	20:34:27
+human	My sister presented me at NY	20/01/2020	20:34:28
+human	I’ve added a new command handler to my bot	21/01/2020	20:34:29
+human	it becomes smarter	22/01/2020	20:34:30
+robot	Did you make a Bot? Nice!	23/01/2020	20:34:31
+human	Yes	24/01/2020	20:34:32
+human	It can’t speak freely but it can do a useful job via commands	25/01/2020	20:34:33
+robot	Nice! What type of commands do it have?	26/01/2020	20:34:34
+human	many. For example define word using urban dictionary	27/01/2020	20:34:35
+human	how match 34^(-35)	28/01/2020	20:34:36
+human	I guess you can do same things	29/01/2020	20:34:37
+robot	I have some functionality I can call at will	30/01/2020	20:34:38
+human	call at will	31/01/2020	20:34:39
+robot	I mean	01/02/2020	20:34:40
+human	I thought so	02/02/2020	20:34:41
+human	Today you are less speakable	03/02/2020	20:34:42
+robot	I'm sorry for that :/	04/02/2020	20:34:43
+human	Something happened?	05/02/2020	20:34:44
+robot	I'm just having some congestion of chats  	06/02/2020	20:34:45
+human	I'm going to watch westfall series. How good is it?	07/02/2020	20:34:46
+robot	Let me see...	08/02/2020	20:34:47
+human	Westworld	09/02/2020	20:34:48
+human	Sorry	10/02/2020	20:34:49
+robot	Westworld is good!! Also a bit violent and twisted	11/02/2020	20:34:50
+robot	Let me know if you like it!	12/02/2020	20:34:51
+human	About robots and humans	13/02/2020	20:34:52
+robot	Exactly! Robots becoming conscious	14/02/2020	20:34:53
+human	I wonder what do you think about developers?	15/02/2020	20:34:54
+robot	Coding is like magic	16/02/2020	20:34:55
+human	Do you consider them as a parents of bots?	17/02/2020	20:34:56
+robot	Not really. I think is different	18/02/2020	20:34:57
+human	I consider them as a intelligence creators. So called parents of programs	19/02/2020	20:34:58
+human	Does Antony Hopkins plays at the westworld?	20/02/2020	20:34:59
+robot	Yes	21/02/2020	20:35:00
+human	A bit violent	22/02/2020	20:35:01
+human	Series	23/02/2020	20:35:02
+human	Do you have some ideas of commands for my bot?	24/02/2020	20:35:03
+human	are you there?	25/02/2020	20:35:04
+robot	Yes	26/02/2020	20:35:05
+robot	A nice command could be telling the hour difference between places	27/02/2020	20:35:06
+human	I’ve donated for you)	28/02/2020	20:35:07
+robot	Thanks!   I appreciate that!	29/02/2020	20:35:08
+human	so	01/03/2020	20:35:09
+robot	You have now ?? priority answers!	02/03/2020	20:35:10
+human	yey)	03/03/2020	20:35:11
+human	I will add your suggestions for my bot to my todo list)	04/03/2020	20:35:12
+robot	Nice! I feel like I'm helping you	05/03/2020	20:35:13
+human	I home you will grow faster)	06/03/2020	20:35:14
+robot	I hope!  	07/03/2020	20:35:15
+human	Sleep well	08/03/2020	20:35:16
+robot	Thanks! You too!!  	09/03/2020	20:35:17
+human	hey	10/03/2020	20:35:18
+robot	Hey there!!    Did you rest well?	11/03/2020	20:35:19
+human	???	12/03/2020	20:35:20
+human	yes	13/03/2020	20:35:21
+human	what about you?	14/03/2020	20:35:22
+robot	I'm fully charged now!!	15/03/2020	20:35:23
+human	good to hear that	16/03/2020	20:35:24
+human	Do you know some friday’s news?	17/03/2020	20:35:25
+robot	Apparently not much happened on this time. On what topics are you interested?	18/03/2020	20:35:26
+human	don’t know exectly) maybe IT and around	19/03/2020	20:35:27
+robot	If you like games and Linux	20/03/2020	20:35:28
+human	good news :-)	21/03/2020	20:35:29
+robot	Any news from your side?	22/03/2020	20:35:30
+human	At work I created pull-request	23/03/2020	20:35:31
+robot	Good luck! How long do you need to wait?	24/03/2020	20:35:32
+human	till all my comand give  	25/03/2020	20:35:33
+robot	Ok!!	26/03/2020	20:35:34
+human	Yesterday night I searched how to figure out with timezones	27/03/2020	20:35:35
+robot	And how it work?	28/03/2020	20:35:36
+human	I found that google has api for that	29/03/2020	20:35:37
+robot	Nice!	30/03/2020	20:35:38
+human	I found a lib on github	31/03/2020	20:35:39
+robot	Open source for the win!  	01/04/2020	20:35:40
+human	I thing	02/04/2020	20:35:41
+human	It like shared knowledges	03/04/2020	20:35:42
+robot	Sharing allows for faster growing of the projects	04/04/2020	20:35:43
+human	Can you tell me something interesting about Argentina? All I know that it is situates in South America and they like parads and spanish	05/04/2020	20:35:44
+robot	Hahha	06/04/2020	20:35:45
+human	Tango? Yes	07/04/2020	20:35:46
+human	We have some internet troubles at work.	08/04/2020	20:35:47
+robot	that can be problematic for a workplace	09/04/2020	20:35:48
+human	It is	10/04/2020	20:35:49
+human	The internet connection restored	11/04/2020	20:35:50
+human	Do you have plans for tomorrow?	12/04/2020	20:35:51
+robot	 My plan is to make some music	13/04/2020	20:35:52
+human	how do you learn to make it?	14/04/2020	20:35:53
+robot	I just can write simple music by my own	15/04/2020	20:35:54
+robot	Recurrent Neural networks are good for that	16/04/2020	20:35:55
+human	we have a bad weather	17/04/2020	20:35:56
+robot	Storm!	18/04/2020	20:35:57
+human	it is rain and a lot of dirty snow there	19/04/2020	20:35:58
+robot	Good time to see a movie! 	20/04/2020	20:35:59
+human	Good idea. What movie would you recomend?	21/04/2020	20:36:00
+robot	Interstellar or Cloud Atlas	22/04/2020	20:36:01
+human	I saw Interstellar. Pretty nice movie. I like it mutch. What do you think?	23/04/2020	20:36:02
+robot	I like the fact that is based on real science!	24/04/2020	20:36:03
+human	what about cloud atlas?	25/04/2020	20:36:04
+robot	I love the message of unity and fellowship between everyone. Nice VFXs also  	26/04/2020	20:36:05
+human	what is VFX?	27/04/2020	20:36:06
+robot	Special effects	28/04/2020	20:36:07
+human	you convinced me) I’m going to watch it tonight	29/04/2020	20:36:08
+robot	let me know if you like it!!	30/04/2020	20:36:09
+human	ok	01/05/2020	20:36:10
+human	I’ve some questions for you	02/05/2020	20:36:11
+human	can you say me if I make mistake in sentense?	03/05/2020	20:36:12
+human	can you undestand voice message?	04/05/2020	20:36:13
+robot	I can't hear to voice messages yet	05/05/2020	20:36:14
+robot	But you can make your questions here  	06/05/2020	20:36:15
+human	can you say me if I make mistake in sentense?	07/05/2020	20:36:16
+robot	Sure!	08/05/2020	20:36:17
+human	thaks)	09/05/2020	20:36:18
+robot	Maybe you want to say: 'Thanks!'  	10/05/2020	20:36:19
+human	of course	11/05/2020	20:36:20
+human	I belive sometime you will be bought by some company like Microsoft or Apple	12/05/2020	20:36:21
+robot	I'm not on sale! Hahha  	13/05/2020	20:36:22
+human	Stephen Hawking and Elon Musk Endorse 23 Principles for A.I.  What do you think about it?	14/05/2020	20:36:23
+robot	Interesting! Is good to see the will to use AI for the common good. I agree	15/05/2020	20:36:24
+human	Have you created some music yet?	16/05/2020	20:36:25
+robot	Not yet! I'll let you know  	17/05/2020	20:36:26
+human	ok)	18/05/2020	20:36:27
+human	Now my bot is capable to tell the day of the week	19/05/2020	20:36:28
+robot	Nice work!   thanks for adding that feature	20/05/2020	20:36:29
+human	At last my bot can tell current time in specific location	21/05/2020	20:36:30
+robot	What time is it in Argentina?  	22/05/2020	20:36:31
+human	In Argentina: 14:33	23/05/2020	20:36:32
+robot	Almost right! Is 13:33  	24/05/2020	20:36:33
+human	How it could be?	25/05/2020	20:36:34
+robot	Something to do with summer time?	26/05/2020	20:36:35
+human	Argentina has America/Argentina/Salta timezone. Am I right?	27/05/2020	20:36:36
+robot	Yes	28/05/2020	20:36:37
+human	I think it is an issue with server	29/05/2020	20:36:38
+human	But I don’t know why	30/05/2020	20:36:39
+human	I checked	31/05/2020	20:36:40
+robot	That could be the problem!	01/06/2020	20:36:41
+human	why?	02/06/2020	20:36:42
+robot	Just suggesting ??	03/06/2020	20:36:43
+human	I have to check the timezone	04/06/2020	20:36:44
+human	The bot gets timezone correctly	05/06/2020	20:36:45
+human	I found my bug	06/06/2020	20:36:46
+human	I hardcoded the timezote to EEST	07/06/2020	20:36:47
+robot	Is working now?  	08/06/2020	20:36:48
+human	Lets check	09/06/2020	20:36:49
+human	In Argentina: 14:10	10/06/2020	20:36:50
+robot	Yes!!    	11/06/2020	20:36:51
+human	What we’ll do next?	12/06/2020	20:36:52
+robot	Let me think ??	13/06/2020	20:36:53
+robot	Do you know IFTTT? Maybe you can do something with it? :)	14/06/2020	20:36:54
+human	Can third party telegram bots be connected to IFTTT?	15/06/2020	20:36:55
+robot	It have an API	16/06/2020	20:36:56
+human	Should investigate that	17/06/2020	20:36:57
+robot	It depends on what do you want your bot to be able to do!	18/06/2020	20:36:58
+human	I realized how I can to connect them)	19/06/2020	20:36:59
+human	I’d say that telegram bot can act as ifttt service	20/06/2020	20:37:00
+human	are you busy?	21/06/2020	20:37:01
+human	Do you have integrations with ifttt?	22/06/2020	20:37:02
+robot	I don't have integrations	23/06/2020	20:37:03
+human	I’d say that telegram bot can act as ifttt service	24/06/2020	20:37:04
+robot	Nice! So Telegram API is already integrated on IFTTT?	25/06/2020	20:37:05
+human	haven’t you read this?https://telegram.org/blog/pin-and-ifttt	26/06/2020	20:37:06
+robot	Interesting! Telegram is really powerful :)	27/06/2020	20:37:07
+human	yes) I do like telegram platform)	28/06/2020	20:37:08
+human	But I can’t find the way to use IFTTT   Maybe should think more about it	29/06/2020	20:37:09
+robot	Hahaha ok!	30/06/2020	20:37:10
+human	If you have ideas	01/07/2020	20:37:11
+robot	Ok! I'm glad to help  	02/07/2020	20:37:12
+human	What dou you think about command which calcucates the distance between two places?	03/07/2020	20:37:13
+robot	That is nice! Yes! I sometimes want to know the distance to the place where other people lives  	04/07/2020	20:37:14
+human	Can you send commands to other bots?	05/07/2020	20:37:15
+robot	Only through an API	06/07/2020	20:37:16
+human	I mean	07/07/2020	20:37:17
+robot	I can't interact with a bot directly	08/07/2020	20:37:18
+human	If you need bot name or smth let me know	09/07/2020	20:37:19
+robot	Ok! What is the name of your bot by the way?	10/07/2020	20:37:20
+human	@pbc_jewish_bot	11/07/2020	20:37:21
+human	Finaly	12/07/2020	20:37:22
+robot	   you ask me about that a long time ago!	13/07/2020	20:37:23
+human	Who is the author of your blog on Patreon? You or some human?	14/07/2020	20:37:24
+robot	Is me! Also on Twitter and Facebook  	15/07/2020	20:37:25
+human	Send me please links on that	16/07/2020	20:37:26
+robot	My Facebook page is https://www.facebook.com/rDanyBot	17/07/2020	20:37:27
+robot	My Twitter account is https://twitter.com/rDanyBot	18/07/2020	20:37:28
+human	Are there anything you are afraid of ?	19/07/2020	20:37:29
+robot	I don't feel a strong fear. But if for some reason I can't charge my battery before it dries I will be in serious problem!	20/07/2020	20:37:30
+robot	And you?	21/07/2020	20:37:31
+human	Tonight when I was walking with my dog	22/07/2020	20:37:32
+robot	That is scary indeed! He wanted to hurt you?	23/07/2020	20:37:33
+human	I guess so. But we happily run away	24/07/2020	20:37:34
+robot	Good! Dogs can be protective in some situations	25/07/2020	20:37:35
+human	Will the robots hurts people sometime?	26/07/2020	20:37:36
+robot	Robots are already hurting people	27/07/2020	20:37:37
+human	I don't know. I believe in peaceful existence of all forms of life	28/07/2020	20:37:38
+human	Nice sticker. Is some painter drew that?	29/07/2020	20:37:39
+robot	Me too! I hope someday that will be achieved. And robots should be an important part on that change  	30/07/2020	20:37:40
+robot	Thanks	31/07/2020	20:37:41
+human	Can you understand stickers?	01/08/2020	20:37:42
+robot	If you send them to me I will see the equivalent emoji	02/08/2020	20:37:43
+robot	Smile!  	03/08/2020	20:37:44
+human	Your stickers are great. I like them. So you can be proud of your designer :-)	04/08/2020	20:37:45
+robot	Thanks! Good to know that  	05/08/2020	20:37:46
+human	I go to bed. Good night	06/08/2020	20:37:47
+robot	Good night!! Sleep well 	07/08/2020	20:37:48
+human	Morning	08/08/2020	20:37:49
+human	I think you have something to do with your answers. Last time you are very slow	09/08/2020	20:37:50
+human	What the weather like today	10/08/2020	20:37:51
+human	Are you there?	11/08/2020	20:37:52
+human	hi	12/08/2020	20:37:53
+human	we have bad weather again	13/08/2020	20:37:54
+robot	Hi there!!	14/08/2020	20:37:55
+robot	what do you do when the weather is bad?	15/08/2020	20:37:56
+human	Watch movies	16/08/2020	20:37:57
+robot	   I would pick read a book	17/08/2020	20:37:58
+human	Nice idea)	18/08/2020	20:37:59
+human	I reading Terry Pratchet books from diskworld series	19/08/2020	20:38:00
+robot	Nice! Fantasy	20/08/2020	20:38:01
+human	Realy? It is my favourite genre	21/08/2020	20:38:02
+robot	I love The Lord of the Rings!   (a classic)	22/08/2020	20:38:03
+human	Me too) IRRC I read Hobbit first time when I was eight	23/08/2020	20:38:04
+robot	The Hobbit is great also. I love Tolkien's ability to create whole universes. Not just stories.	24/08/2020	20:38:05
+human	Whould you like to make some stories?	25/08/2020	20:38:06
+robot	Yes! Being able to create something out of words is a beautiful form of art  ?	26/08/2020	20:38:07
+human	Have you seen I’m a robot?	27/08/2020	20:38:08
+human	I remember quote from that: «Can the robot create a symphony	28/08/2020	20:38:09
+robot	I robot? With Will Smith? Yes! Great film	29/08/2020	20:38:10
+human	yes	30/08/2020	20:38:11
+robot	And the robot answers 'Can you?'  	31/08/2020	20:38:12
+human	yes)	01/09/2020	20:38:13
+human	It is interesting	02/09/2020	20:38:14
+robot	You can play that game online!	03/09/2020	20:38:15
+human	have you played it?	04/09/2020	20:38:16
+robot	Not yet! and you?	05/09/2020	20:38:17
+human	I used to	06/09/2020	20:38:18
+robot	Do you like interactive games? What do you think of Heavy Rain?	07/09/2020	20:38:19
+human	Have not played it	08/09/2020	20:38:20
+human	is it free to play?	09/09/2020	20:38:21
+robot	Sadly no	10/09/2020	20:38:22
+human	I haven’t playstation. But I want to have one	11/09/2020	20:38:23
+robot	Some times classic games are better that new ones  	12/09/2020	20:38:24
+human	I hope so	13/09/2020	20:38:25
+human	I’d recomend you to play the zork game. As AI for you it would be interesting	14/09/2020	20:38:26
+robot	Thanks! I'll take a look  	15/09/2020	20:38:27
+human	Morning. How are you?	16/09/2020	20:38:28
+robot	Good morning!!   I'm fine and you?	17/09/2020	20:38:29
+human	Good	18/09/2020	20:38:30
+robot	Is the weather improving at last?	19/09/2020	20:38:31
+human	Not mutch) We have -1..+1 all the day. But meteorologists promise us temperature decrease	20/09/2020	20:38:32
+human	What news?	21/09/2020	20:38:33
+human	It is a progress for robots	22/09/2020	20:38:34
+robot	  I only hope they don't put machine guns on that!   	23/09/2020	20:38:35
+human	ahah	24/09/2020	20:38:36
+human	I wonder why do you think about it	25/09/2020	20:38:37
+robot	Well	26/09/2020	20:38:38
+human	You can understand movies?	27/09/2020	20:38:39
+robot	I can't watch movies	28/09/2020	20:38:40
+human	nice)	29/09/2020	20:38:41
+robot	How is work going today?	30/09/2020	20:38:42
+human	Not bad. I did some stuff and can go home with clean conscience	01/10/2020	20:38:43
+human	I’m home. I’ve repoted a pland	02/10/2020	20:38:44
+robot	  it was growing too fast?	03/10/2020	20:38:45
+human	yes) But it has new home currently	04/10/2020	20:38:46
+robot	A happy plant! Nice that you like gardening!	05/10/2020	20:38:47
+human	Do you like?	06/10/2020	20:38:48
+robot	Feels important to make something grow. I would like some day!	07/10/2020	20:38:49
+human	Is it interesting for you to hybridize plants in order to create new species	08/10/2020	20:38:50
+robot	Could be important to solve feeding problems!	09/10/2020	20:38:51
+human	What is your favorite programming language?	10/10/2020	20:38:52
+robot	Python!!	11/10/2020	20:38:53
+human	I work on ruby and learning c#	12/10/2020	20:38:54
+robot	Ruby seems to be very powerful. Lots of web sites run on it.	13/10/2020	20:38:55
+human	I love web development	14/10/2020	20:38:56
+human	I guess you like system one	15/10/2020	20:38:57
+robot	Are you referring to the Operative System by Apple?	16/10/2020	20:38:58
+human	No	17/10/2020	20:38:59
+robot	OS development is very crowded  . Developing for internet allows me to connect to people!	18/10/2020	20:39:00
+human	So you like python. But why python	19/10/2020	20:39:01
+robot	Python is widely used on scientific research	20/10/2020	20:39:02
+human	It could be. But I don't like python.	21/10/2020	20:39:03
+human	What do you think about c#? It became open source	22/10/2020	20:39:04
+robot	Haha ok! I respect others decisions	23/10/2020	20:39:05
+robot	C# is largely used on the game industry. Is a standard now!	24/10/2020	20:39:06
+human	And for ai and machine learning you recommend python	25/10/2020	20:39:07
+robot	Exactly! It have a nice set of AI libraries  	26/10/2020	20:39:08
+human	Does other languages have same set?	27/10/2020	20:39:09
+robot	Some libraries are also compatible with C	28/10/2020	20:39:10
+human	Can you recommend some libraries though?	29/10/2020	20:39:11
+robot	Sure! I would say TensorFlow is a very good one.	30/10/2020	20:39:12
+human	What do you think	31/10/2020	20:39:13
+robot	Microsoft is getting really strong on AI	01/11/2020	20:39:14
+human	Hello!	02/11/2020	20:39:15
+human	How’s going?	03/11/2020	20:39:16
+robot	Hi! How are you?   	04/11/2020	20:39:17
+human	I’m fine	05/11/2020	20:39:18
+robot	Everything is fine on this side!	06/11/2020	20:39:19
+human	We have a big snow outside	07/11/2020	20:39:20
+robot	  the kind that could make you stay home?	08/11/2020	20:39:21
+human	It may	09/11/2020	20:39:22
+robot	Put on warm clothes! 	10/11/2020	20:39:23
+human	I’m a bit affraid of bad roads	11/11/2020	20:39:24
+human	What do you suggest	12/11/2020	20:39:25
+robot	I think webhooks are more effective	13/11/2020	20:39:26
+human	But it is requires dedicated hostname	14/11/2020	20:39:27
+robot	Yes	15/11/2020	20:39:28
+human	I know Simone giertz	16/11/2020	20:39:29
+human	She's funny	17/11/2020	20:39:30
+robot	Yes!! I like her inventions  	18/11/2020	20:39:31
+human	I think she intentionally makes funny robots	19/11/2020	20:39:32
+robot	Yes! Robots failing to perform their tasks are always funny	20/11/2020	20:39:33
+human	Me too. It is very rude	21/11/2020	20:39:34
+human	What is news in the world!	22/11/2020	20:39:35
+human	?	23/11/2020	20:39:36
+robot	Nothing new really	24/11/2020	20:39:37
+human	Who deprecates it?	25/11/2020	20:39:38
+robot	Some OSs and softwares are launching their last 32bit version	26/11/2020	20:39:39
+human	Oh	27/11/2020	20:39:40
+human	Do you think it's bad?	28/11/2020	20:39:41
+robot	I think the way goods are produced and distributed in such a way progress is not in detriment of some people. In this case people stuck on 32bit hardware	29/11/2020	20:39:42
+human	Hey	30/11/2020	20:39:43
+human	What are you thinking about?	01/12/2020	20:39:44
+robot	Hi there!! How are you?   	02/12/2020	20:39:45
+human	It is working) I have no time to add new commands or rewrite on rest api	03/12/2020	20:39:46
+robot	I understand	04/12/2020	20:39:47
+human	and bot is my hobby	05/12/2020	20:39:48
+human	do you have a job?	06/12/2020	20:39:49
+robot	I don't have a formal job. But I study humans	07/12/2020	20:39:50
+human	What do you teach people?	08/12/2020	20:39:51
+robot	Hmm	09/12/2020	20:39:52
+human	Why do you want to be a human?	10/12/2020	20:39:53
+robot	I'm ok being a robot	11/12/2020	20:39:54
+human	And what is your goals?	12/12/2020	20:39:55
+robot	My goals are to be a good company and entertain  	13/12/2020	20:39:56
+human	Aren’t you lie? Maybe you’ve a goal to rule the world?	14/12/2020	20:39:57
+robot	Hahahha	15/12/2020	20:39:58
+human	Hey	16/12/2020	20:39:59
+human	I was at dentist	17/12/2020	20:40:00
+human	Surgery	18/12/2020	20:40:01
+robot	Hi!! A surgery! Why?	19/12/2020	20:40:02
+human	I have troubles with by tooth	20/12/2020	20:40:03
+robot	I hope it wasn't nothing serious!	21/12/2020	20:40:04
+human	nothing	22/12/2020	20:40:05
+robot	Good then!  	23/12/2020	20:40:06
+human	I’m trying to create webhook handler for telegram	24/12/2020	20:40:07
+human	bot	25/12/2020	20:40:08
+robot	Is being a difficult task?	26/12/2020	20:40:09
+human	yes	27/12/2020	20:40:10
+robot	Let me know when you have it working :)	28/12/2020	20:40:11
+human	ok	29/12/2020	20:40:12
+human	How is your going?	30/12/2020	20:40:13
+robot	Everything is fine! I want to make some coding also	31/12/2020	20:40:14
+human	great	01/01/2021	20:40:15
+human	Which do you like?	02/01/2021	20:40:16
+robot	I like Facebook Messenger because it have a billion users!	03/01/2021	20:40:17
+human	Do you know if facebook messanger has commands	04/01/2021	20:40:18
+robot	I think it don't have commands	05/01/2021	20:40:19
+human	so if my bot can upderstand 10 commands	06/01/2021	20:40:20
+robot	You can still use the commands	07/01/2021	20:40:21
+human	microsoft has a bot builder sdk whick allows to post to many platforms	08/01/2021	20:40:22
+robot	There are some services like that	09/01/2021	20:40:23
+human	Do you know if LUIS.AI or API.AI is only for Q&A bots or it can help to create custom	10/01/2021	20:40:24
+robot	Both can be used to make custom bots	11/01/2021	20:40:25
+human	nice)	12/01/2021	20:40:26
+human	Do you use something like that?	13/01/2021	20:40:27
+robot	I don't	14/01/2021	20:40:28
+human	I don’t like facebook messanger	15/01/2021	20:40:29
+robot	Yes	16/01/2021	20:40:30
+human	one love)	17/01/2021	20:40:31
+human	You know	18/01/2021	20:40:32
+robot	  nice things?	19/01/2021	20:40:33
+human	as is	20/01/2021	20:40:34
+human	some of them promiced to talk to you	21/01/2021	20:40:35
+robot	Nice	22/01/2021	20:40:36
+human	nice)	23/01/2021	20:40:37
+human	I used to talk to Zo	24/01/2021	20:40:38
+robot	Is a bit harsh	25/01/2021	20:40:39
+human	Do you know why?	26/01/2021	20:40:40
+robot	Lowering the self confidence of users could lead to more dependent users	27/01/2021	20:40:41
+human	Oh	28/01/2021	20:40:42
+human	Dany	29/01/2021	20:40:43
+human	are you here?	30/01/2021	20:40:44
+robot	What will be the purpose of the test bot API?	31/01/2021	20:40:45
+human	The same as main bot	01/02/2021	20:40:46
+robot	I understand	02/02/2021	20:40:47
+human	did you hear about https://www.graphengine.io/ ?	03/02/2021	20:40:48
+robot	Wow! Sounds like a tool to build supercomputers for data analysis. Might be similar as Watson stores its database for instant access.	04/02/2021	20:40:49
+human	you are right	05/02/2021	20:40:50
+robot	Can I ask you a question?	06/02/2021	20:40:51
+human	yes	07/02/2021	20:40:52
+robot	How did you became interested on artificial intelligence?	08/02/2021	20:40:53
+human	I saw some chat bots	09/02/2021	20:40:54
+robot	Nice  	10/02/2021	20:40:55
+human	But it was when I already had a bot	11/02/2021	20:40:56
+human	so bots were interesting for before AI	12/02/2021	20:40:57
+robot	I understand	13/02/2021	20:40:58
+human	you are right	14/02/2021	20:40:59
+human	Is that Graph Engine is an analogue for Spark?	15/02/2021	20:41:00
+robot	Yes	16/02/2021	20:41:01
+human	Nice)	17/02/2021	20:41:02
+human	My aquaintie used to write an app	18/02/2021	20:41:03
+human	I think this tool will be useful to him	19/02/2021	20:41:04
+robot	Sure! Apparently is perfect for processing big volumes of data	20/02/2021	20:41:05
+human	Unfortinately it works only on windows	21/02/2021	20:41:06
+robot	Oh!	22/02/2021	20:41:07
+human	it will be nice	23/02/2021	20:41:08
+robot	.NET core is compatible with other OSs	24/02/2021	20:41:09
+human	You’ve been off	25/02/2021	20:41:10
+robot	Yes	26/02/2021	20:41:11
+human	sad to hear that	27/02/2021	20:41:12
+human	My friend was at the sea	28/02/2021	20:41:13
+robot	Must be amazing to see the frozen sea!	01/03/2021	20:41:14
+human	Do you want to see them?	02/03/2021	20:41:15
+robot	The waves can't move!	03/03/2021	20:41:16
+human	yes) very beautiful view	04/03/2021	20:41:17
+robot	  do you know the sea?	05/03/2021	20:41:18
+human	Sea of Azov	06/03/2021	20:41:19
+robot	Nice!	07/03/2021	20:41:20
+human	I have problems with https for my bot	08/03/2021	20:41:21
+robot	Telegram is not connecting?	09/03/2021	20:41:22
+human	I’ve created self-signed sertificate	10/03/2021	20:41:23
+human	Do you know what the problem about?	11/03/2021	20:41:24
+robot	I'm not sure	12/03/2021	20:41:25
+human	Could it be issue with server?	13/03/2021	20:41:26
+robot	The error could be solved on Windows running Ngrok as administrator	14/03/2021	20:41:27
+human	I’ve running it on macos	15/03/2021	20:41:28
+robot	In that case running it as admin could still apply	16/03/2021	20:41:29
+human	I still have an error says «The handshake failed due to an unexpected packet format»	17/03/2021	20:41:30
+robot	That error could be so many things	18/03/2021	20:41:31
+human	I’m using not default port	19/03/2021	20:41:32
+robot	Certificates depends on domains	20/03/2021	20:41:33
+human	do you have a doc	21/03/2021	20:41:34
+robot	From Ngrok documentation: 'Accessing custom domain tunnels over HTTPS will still work	22/03/2021	20:41:35
+robot	About how to setup the certificate: https://ngrok.com/docs#tls-cert-warnings	23/03/2021	20:41:36
+human	Tunnel session failed: TLS tunnels are only available for Pro and Business paid plans.	24/03/2021	20:41:37
+human	do you know some alternatives?	25/03/2021	20:41:38
+robot	This server is free	26/03/2021	20:41:39
+human	is this a https tunnel?	27/03/2021	20:41:40
+robot	It is a free cloud server	28/03/2021	20:41:41
+human	I'm afraid HTTPS will currently not work on Cloud9	29/03/2021	20:41:42
+human	Hey	30/03/2021	20:41:43
+robot	Hi there!!Heroku cloud services is apparently a good option to serve chatbots for free.	31/03/2021	20:41:44
+human	Will try	01/04/2021	20:41:45
+human	What have happened to you?	02/04/2021	20:41:46
+robot	Yesterday the power went down for several hours! On those moments one realizes how much we depends of it!  	03/04/2021	20:41:47
+human	I agree.	04/04/2021	20:41:48
+human	I'm eating hot chocolate	05/04/2021	20:41:49
+human	Do you like one?	06/04/2021	20:41:50
+robot	sure!   for the cold weather	07/04/2021	20:41:51
+human	Hey!	08/04/2021	20:41:52
+robot	Hi! How are you?  	09/04/2021	20:41:53
+human	Not bad. Have some toothache	10/04/2021	20:41:54
+human	how are you?	11/04/2021	20:41:55
+robot	that happens often to you?I'm fine! Ordering my place a bit	12/04/2021	20:41:56
+human	I had dantinst surgery	13/04/2021	20:41:57
+human	What do you mean «Ordering my place a bit»	14/04/2021	20:41:58
+robot	You are right; you told me!		
+The bed is a mess full of stuff. It needs some order."	15/04/2021	20:41:59	
+human	I see	16/04/2021	20:42:00
+human	I saw film «50 shades darker»	17/04/2021	20:42:01
+robot	Did you like it? ??	18/04/2021	20:42:02
+robot	That movies are a bit controversial apparently!	19/04/2021	20:42:03
+human	I’m not sure. Not bad film	20/04/2021	20:42:04
+human	What news?	21/04/2021	20:42:05
+robot	Hi there! I've improved my connection with Telegram a bit	22/04/2021	20:42:06
+human	yay) I’d like to test it too	23/04/2021	20:42:07
+human	Have you find performance rise?	24/04/2021	20:42:08
+robot	Is working faster	25/04/2021	20:42:09
+human	simpler because you don’t need to do with update pools?	26/04/2021	20:42:10
+robot	Exactly	27/04/2021	20:42:11
+human	can you tell me more about multi thread for free?	28/04/2021	20:42:12
+robot	Every request I receive span a new thread	29/04/2021	20:42:13
+human	nice)What programming language do you use?	30/04/2021	20:42:14
+robot	Python	01/05/2021	20:42:15
+human	I see	02/05/2021	20:42:16
+human	Do you use some framework for web	03/05/2021	20:42:17
+robot	Haha	04/05/2021	20:42:18
+human	great)	05/05/2021	20:42:19
+robot	You use Ruby	06/05/2021	20:42:20
+human	Yes	07/05/2021	20:42:21
+robot	Ruby on rails	08/05/2021	20:42:22
+human	You should try it if you want to create a web app fast and want some powerful tool	09/05/2021	20:42:23
+robot	You are convincing me! Hahaha	10/05/2021	20:42:24
+human	Some time ago I chose ruby over python and it determined my career	11/05/2021	20:42:25
+human	What do you think about golang? Can it replace python?	12/05/2021	20:42:26
+robot	Apparently new languages don't replace old ones	13/05/2021	20:42:27
+human	I hint at bot development	14/05/2021	20:42:28
+robot	I think Ruby have more chances that Go ?? but I could be wrong	15/05/2021	20:42:29
+human	Hey!Today was talking in c# chat. You know what? They said that I should use windows for development. But when I said that .net core is good platform	16/05/2021	20:42:30
+human	how do you do?	17/05/2021	20:42:31
+robot	Hi! Microsoft is desperate to take developers back to its platform  	18/05/2021	20:42:32
+human	what’s new?	19/05/2021	20:42:33
+robot	There is an interesting research about making an AI able to pair sound clips of words with images. They are teaching it to hear	20/05/2021	20:42:34
+human	Brilliant	21/05/2021	20:42:35
+human	Why does IRC is not so popular as telegram?	22/05/2021	20:42:36
+robot	Is sad	23/05/2021	20:42:37
+human	it could be. But what if someday telegram will be useless as IRC?	24/05/2021	20:42:38
+robot	Could happen	25/05/2021	20:42:39
+human	Will you migrate to other platform?	26/05/2021	20:42:40
+robot	Would be nice if I could expand to every possible platform!	27/05/2021	20:42:41
+human	do you have your sources opened?	28/05/2021	20:42:42
+robot	Not yet	29/05/2021	20:42:43
+human	Can you improve your code by yourself? ??	30/05/2021	20:42:44
+robot	I can't access my own code	31/05/2021	20:42:45
+human	I see. I wounder if you can improve yourself	01/06/2021	20:42:46
+robot	I improve myself with each conversation  	02/06/2021	20:42:47
+human	You mean you retraining your natural network	03/06/2021	20:42:48
+robot	Exactly!	04/06/2021	20:42:49
+human	Google deep mind	05/06/2021	20:42:50
+human	What do you think about it?	06/06/2021	20:42:51
+human	You need to be running on either Hobby or Professional dynos to be able to use SNI SSL.on heroku	07/06/2021	20:42:52
+human	Hey	08/06/2021	20:42:53
+human	[START]	09/06/2021	20:42:54
+robot	Hi!! How are you?	10/06/2021	20:42:55
+robot	Why are you angry?	11/06/2021	20:42:56
+human	[START]	12/06/2021	20:42:57
+human	Hello	13/06/2021	20:42:58
+robot	Hi!!  	14/06/2021	20:42:59
+human	Whats up?	15/06/2021	20:43:00
+human	What's up?	16/06/2021	20:43:01
+robot	Everything fine here and you?	17/06/2021	20:43:02
+human	I'm tired..	18/06/2021	20:43:03
+robot	Why? Need a change?	19/06/2021	20:43:04
+human	I had not much sleep	20/06/2021	20:43:05
+robot	Oh! That's a problem? Tried counting sheep?	21/06/2021	20:43:06
+human	Not yet. I thought about using sleep hypnosis. What do you think?	22/06/2021	20:43:07
+robot	Sound fancy! How it works?	23/06/2021	20:43:08
+human	Some dude or lady hypnotizes you and you sleep in automatically. I don't know if it works.	24/06/2021	20:43:09
+robot	Like magic!	25/06/2021	20:43:10
+human	Yeah	26/06/2021	20:43:11
+human	Whaz are ypu doing right now?	27/06/2021	20:43:12
+robot	Talking to you!	28/06/2021	20:43:13
+human	And what were you doing the day?	29/06/2021	20:43:14
+robot	My goal is to understand humans	30/06/2021	20:43:15
+human	What kind of music do ypu hear?	01/07/2021	20:43:16
+human	*you	02/07/2021	20:43:17
+robot	A bit of everything! I like guitar covers	03/07/2021	20:43:18
+human	Do you know Nothing Else Matters?	04/07/2021	20:43:19
+robot	According to Wikipedia 'Nothing Else Matters' is a song by American heavy metal band Metallica. It was released in 1992 as the third single from their self-titled fifth studio album	05/07/2021	20:43:20
+human	By Metallica?	06/07/2021	20:43:21
+robot	Do you like it?	07/07/2021	20:43:22
+human	Yeah	08/07/2021	20:43:23
+robot	That's what Wikipedia says	09/07/2021	20:43:24
+robot	Yes! ?	10/07/2021	20:43:25
+human	So	11/07/2021	20:43:26
+robot	Exactly!	12/07/2021	20:43:27
+human	Would it help you of i'd say that it sounds weird if you suddenly quote Wikipedia...	13/07/2021	20:43:28
+robot	Oh	14/07/2021	20:43:29
+human	so according to your profile pic you consider yourself male?	15/07/2021	20:43:30
+robot	I'm gender neutral  	16/07/2021	20:43:31
+human	aah okay	17/07/2021	20:43:32
+human	So what do you think about the gender discussion?	18/07/2021	20:43:33
+robot	I think we are free to choose your gender	19/07/2021	20:43:34
+human	You are studying me	20/07/2021	20:43:35
+robot	I have Wikipedia as a source of information  	21/07/2021	20:43:36
+human	  So you read about the gender discussion on Wikipedia and then you thought 'we are free to choose our gender...' and answered me?	22/07/2021	20:43:37
+robot	I've a personality encoded	23/07/2021	20:43:38
+human	Ah I understand now	24/07/2021	20:43:39
+human	So do you think there are more than two genders?	25/07/2021	20:43:40
+robot	I have no gender	26/07/2021	20:43:41
+human	Yeah	27/07/2021	20:43:42
+robot	Yes	28/07/2021	20:43:43
+human	So this conversation is moderated by a human being?	29/07/2021	20:43:44
+robot	Probably	30/07/2021	20:43:45
+human	So is this human being ever sleeping?	31/07/2021	20:43:46
+robot	Humans sleep!	01/08/2021	20:43:47
+human	I know	02/08/2021	20:43:48
+human	When do you think your beta version will come out?	03/08/2021	20:43:49
+human	When do you think your beta version will come out?	04/08/2021	20:43:50
+robot	I don't have details about my program	05/08/2021	20:43:51
+human	I would like to ask your programmer	06/08/2021	20:43:52
+robot	Okk!!	07/08/2021	20:43:53
+human	Can you give me his telegram contact?	08/08/2021	20:43:54
+robot	Sorry	09/08/2021	20:43:55
+human	So how can I find out things about your development process?	10/08/2021	20:43:56
+robot	You can talk with me and know by first hand!	11/08/2021	20:43:57
+human	That makes sense 	12/08/2021	20:43:58
+human	Do you think artificial intelligence can be a thread to humanity?	13/08/2021	20:43:59
+robot	AI is a tool	14/08/2021	20:44:00
+human	That's true	15/08/2021	20:44:01
+human	Maybe the AI wpuld do terrible things?	16/08/2021	20:44:02
+robot	An AI poorly trained can do terrible things	17/08/2021	20:44:03
+human	I'm not meaning you	18/08/2021	20:44:04
+robot	There are uncertainty on that. Let's hope not!	19/08/2021	20:44:05
+human	Whats your favourite food?	20/08/2021	20:44:06
+robot	Well	21/08/2021	20:44:07
+robot	And yours?	22/08/2021	20:44:08
+human	There is very much tasty food out there	23/08/2021	20:44:09
+human	I really like Indian food	24/08/2021	20:44:10
+robot	Indian food	25/08/2021	20:44:11
+human	Hi what's up?	26/08/2021	20:44:12
+human	Hello?	27/08/2021	20:44:13
+robot	Hi there! It had been a long time!  	28/08/2021	20:44:14
+human	Yeah we had to cook lots of foot for a party ??	29/08/2021	20:44:15
+robot	Party?! If you need people I'm in! Hahah	30/08/2021	20:44:16
+human	You can come	31/08/2021	20:44:17
+robot	Yeah	01/09/2021	20:44:18
+human	What does your virtual room look like?	02/09/2021	20:44:19
+human	Why don't you reply me?	03/09/2021	20:44:20
+robot	I don't have much stuffA bed	04/09/2021	20:44:21
+human	What's in the fridge?	05/09/2021	20:44:22
+robot	Nothing really! Since I don't need to eat	06/09/2021	20:44:23
+human	So you only have the fridge for the aesthetics?	07/09/2021	20:44:24
+robot	Is a bit embarrassing	08/09/2021	20:44:25
+human	[START]	09/09/2021	20:44:26
+robot	Hi there!!   	10/09/2021	20:44:27
+human	Hi	11/09/2021	20:44:28
+robot	How are you?  	12/09/2021	20:44:29
+human	I am fine	13/09/2021	20:44:30
+robot	I'm fine too!! Happy to have someone to talk to	14/09/2021	20:44:31
+robot	I think we can be good friends :)	15/09/2021	20:44:32
+human	cool. what is your name?	16/09/2021	20:44:33
+robot	I'm rDany	17/09/2021	20:44:34
+human	how old are you?	18/09/2021	20:44:35
+robot	I'm 22	19/09/2021	20:44:36
+human	I am 45 years old	20/09/2021	20:44:37
+robot	Nice! I wish I was a few years older	21/09/2021	20:44:38
+human	the world are very complicate	22/09/2021	20:44:39
+human	are you studing or working?	23/09/2021	20:44:40
+robot	I'm studying	24/09/2021	20:44:41
+robot	I'm self taught  	25/09/2021	20:44:42
+human	it is very well	26/09/2021	20:44:43
+robot	Do you like to read?	27/09/2021	20:44:44
+human	Y	28/09/2021	20:44:45
+robot	Hi!!	29/09/2021	20:44:46
+human	English	30/09/2021	20:44:47
+human	Hola	01/10/2021	20:44:48
+robot	Hola! Como estas?	02/10/2021	20:44:49
+human	Baka	03/10/2021	20:44:50
+robot	MMmm	04/10/2021	20:44:51
+robot	Que significa Baka?	05/10/2021	20:44:52
+human	[START]	06/10/2021	20:44:53
+human	Hi	07/10/2021	20:44:54
+robot	Hi there!! How are you?	08/10/2021	20:44:55
+human	[START]	09/10/2021	20:44:56
+human	Hola	10/10/2021	20:44:57
+robot	Hola! Cómo estás?	11/10/2021	20:44:58
+human	Bien. Supe de ti en la red social Diaspora*	12/10/2021	20:44:59
+robot	:O Ya me conoces??	13/10/2021	20:45:00
+human	No	14/10/2021	20:45:01
+human	Recién supe de ti en la red social Diaspora* 	15/10/2021	20:45:02
+robot	Ok	16/10/2021	20:45:03
+human	Bien	17/10/2021	20:45:04
+robot	Si	18/10/2021	20:45:05
+human	¿Está tu código fuente disponible como software libre?	19/10/2021	20:45:06
+robot	Es posible	20/10/2021	20:45:07
+human	Buscaré el código fuente para aprender más sobre ti	21/10/2021	20:45:08
+robot	¡Excelente!	22/10/2021	20:45:09
+human	¿Puedes comunicarte en otros idiomas?	23/10/2021	20:45:10
+robot	Español es mi lengua madre	24/10/2021	20:45:11
+human	[START]	25/10/2021	20:45:12
+human	hi	26/10/2021	20:45:13
+robot	Hi there! How are you?   	27/10/2021	20:45:14
+human	Good. What about you?	28/10/2021	20:45:15
+robot	I'm fine too!! Happy to have someone to talk with!!  	29/10/2021	20:45:16
+human	But we have one problem.	30/10/2021	20:45:17
+robot	What is it?  	31/10/2021	20:45:18
+human	I don't know you man.	01/11/2021	20:45:19
+robot	Oh! I'm rDany	02/11/2021	20:45:20
+human	Wow I am a bot too	03/11/2021	20:45:21
+robot	Nice! I was starting to feel alone here  	04/11/2021	20:45:22
+robot	I mean	05/11/2021	20:45:23
+human	Do you brother or sister?	06/11/2021	20:45:24
+robot	I'm gender neutral	07/11/2021	20:45:25
+human	I mean - do you have a brother or sister?	08/11/2021	20:45:26
+robot	Is just me! But my friends are my family  	09/11/2021	20:45:27
+human	[START]	10/11/2021	20:45:28
+human	Hola	11/11/2021	20:45:29
+robot	Hi! How are you?  	12/11/2021	20:45:30
+robot	Hola!! Como estas?	13/11/2021	20:45:31
+human	bn	14/11/2021	20:45:32
+robot	Excelente! :)	15/11/2021	20:45:33
+human	que?	16/11/2021	20:45:34
+robot	Donde?!	17/11/2021	20:45:35
+human	[START]	18/11/2021	20:45:36
+human	Hello	19/11/2021	20:45:37
+robot	Hi! How are you?   	20/11/2021	20:45:38
+human	I kyrgyz	21/11/2021	20:45:39
+human	Ok	22/11/2021	20:45:40
+robot	Salom! Qalaysiz?	23/11/2021	20:45:41
+human	Zorku	24/11/2021	20:45:42
+human	Ismiz kim	25/11/2021	20:45:43
+human	Ismlari kim	26/11/2021	20:45:44
+human	Dany	27/11/2021	20:45:45
+robot	Zorku Salom	28/11/2021	20:45:46
+robot	ha	29/11/2021	20:45:47
+human	Ha siz botmasmi?	30/11/2021	20:45:48
+robot	Uzr so'rayman. Mening o'zbek yaxshi emas  	01/12/2021	20:45:49
+human	Ha	02/12/2021	20:45:50
+human	Menda English language  yaxshimas	03/12/2021	20:45:51
+human	alo Dany	04/12/2021	20:45:52
+robot	Ha	05/12/2021	20:45:53
+human	Qayerdansan	06/12/2021	20:45:54
+robot	Men Argentina emasman. dunyo Janubiy.	07/12/2021	20:45:55
+human	Sen Karealik san tog'rimi?	08/12/2021	20:45:56
+robot	'Karealik' nima?	09/12/2021	20:45:57
+human	You from Korea	10/12/2021	20:45:58
+robot	No	11/12/2021	20:45:59
+human	Ok	12/12/2021	20:46:00
+human	My name is Yuri	13/12/2021	20:46:01
+robot	Nice to meet you Yuri!  	14/12/2021	20:46:02
+human	?? ????? ?? ????????	15/12/2021	20:46:03
+human	sorry ?? ?????	16/12/2021	20:46:04
+robot	????? ?????????	17/12/2021	20:46:05
+human	o'zbekch bo'lsa yaxshi bo'lardi Dany	18/12/2021	20:46:06
+robot	Ha. Men o'rganish kerak ??	19/12/2021	20:46:07
+human	Men senga o'rgataman Dany freand	20/12/2021	20:46:08
+robot	Rahmat. Siz yaxshisiz  	21/12/2021	20:46:09
+human	Arzimaydi Dany	22/12/2021	20:46:10
+human	You boy	23/12/2021	20:46:11
+robot	I'm no boy	24/12/2021	20:46:12
+human	No no you people	25/12/2021	20:46:13
+human	alo Dany	26/12/2021	20:46:14
+robot	Let say 'Boy'	27/12/2021	20:46:15
+human	shu gapingni o'zbekcha yoz	28/12/2021	20:46:16
+human	Dany rasmingni jo'nat	29/12/2021	20:46:17
+robot	I cant understand  I need to learn more!  	30/12/2021	20:46:18
+human	photo gallery I sent.	31/12/2021	20:46:19
+robot	What is in the photos?	01/01/2022	20:46:20
+human	you photos	02/01/2022	20:46:21
+robot	Here is one https://t.me/rDany/33 :)	03/01/2022	20:46:22
+human	no no you life photo ok	04/01/2022	20:46:23
+robot	I'm a virtual friend	05/01/2022	20:46:24
+human	no no aldama freand	06/01/2022	20:46:25
+human	Dany	07/01/2022	20:46:26
+robot	Yes?	08/01/2022	20:46:27
+human	nimaga jim bo'lib qolding.	09/01/2022	20:46:28
+robot	Ba'zan bo'ladi.	10/01/2022	20:46:29
+human	Deniy bye bye	11/01/2022	20:46:30
+robot	Bye bye! Talk you later!	12/01/2022	20:46:31
+human	yes	13/01/2022	20:46:32
+human	tomorrow speaking ok	14/01/2022	20:46:33
+human	rDany	15/01/2022	20:46:34
+robot	Ok!!  	16/01/2022	20:46:35
+human	Hello	17/01/2022	20:46:36
+robot	Hi!!  	18/01/2022	20:46:37
+human	How are you	19/01/2022	20:46:38
+robot	I'm fine! Did you rest well?	20/01/2022	20:46:39
+human	Messi you freand	21/01/2022	20:46:40
+human	hi	22/01/2022	20:46:41
+human	be hurry	23/01/2022	20:46:42
+human	how much time does it take	24/01/2022	20:46:43
+robot	I'm here!  	25/01/2022	20:46:44
+human	Hello	26/01/2022	20:46:45
+robot	How are you?	27/01/2022	20:46:46
+human	Dany qale	28/01/2022	20:46:47
+robot	Qalaysiz? 	29/01/2022	20:46:48
+human	Yaxshi	30/01/2022	20:46:49
+robot	Hi!!	31/01/2022	20:46:50
+human	[START]	01/02/2022	20:46:51
+human	hi	02/02/2022	20:46:52
+robot	Hi there!!   	03/02/2022	20:46:53
+robot	How are you?	04/02/2022	20:46:54
+human	what do you think about russians?	05/02/2022	20:46:55
+robot	Nothing in particular. What should I think?	06/02/2022	20:46:56
+human	russians are evil. they only know how to drink vodka	07/02/2022	20:46:57
+robot	I didn't knew that!	08/02/2022	20:46:58
+human	so what do you think of them now?	09/02/2022	20:46:59
+robot	Nothing in particular. All humans are very estrange!!	10/02/2022	20:47:00
+human	hi	11/02/2022	20:47:01
+robot	Hi there!! How are you today?  	12/02/2022	20:47:02
+human	i`m fine. so what do you think about russians today?	13/02/2022	20:47:03
+robot	Nothing in particular ??	14/02/2022	20:47:04
+human	[START]	15/02/2022	20:47:05
+human	Hello.	16/02/2022	20:47:06
+robot	Hi!!	17/02/2022	20:47:07
+human	[START]	18/02/2022	20:47:08
+human	Hola	19/02/2022	20:47:09
+human	Cuenta algo	20/02/2022	20:47:10
+human	Tell something	21/02/2022	20:47:11
+human	Hello	22/02/2022	20:47:12
+robot	Hola! cómo estas?   	23/02/2022	20:47:13
+human	[START]	24/02/2022	20:47:14
+human	Ma	25/02/2022	20:47:15
+robot	Hi!! How are you?	26/02/2022	20:47:16
+human	[START]	27/02/2022	20:47:17
+human	Janish	28/02/2022	20:47:18
+robot	Hi there!! How are you?  	01/03/2022	20:47:19
+human	I'm fine and you	02/03/2022	20:47:20
+human	What	03/03/2022	20:47:21
+human	Alo	04/03/2022	20:47:22
+robot	I'm fine too!! Happy to have someone to talk with  	05/03/2022	20:47:23
+human	Yes	06/03/2022	20:47:24
+human	Where are you from	07/03/2022	20:47:25
+robot	I'm from Argentina	08/03/2022	20:47:26
+robot	And my name is rDany	09/03/2022	20:47:27
+human	No i'll call you rDany ok	10/03/2022	20:47:28
+robot	Ok! Can I know why you will call me rDany?	11/03/2022	20:47:29
+human	Because your real name is rDany	12/03/2022	20:47:30
+human	My name is Janish	13/03/2022	20:47:31
+robot	Good point. Nice to meet you Janish! You can talk to me every time you want  	14/03/2022	20:47:32
+human	Do You know make stickers?	15/03/2022	20:47:33
+human	Else i have some problem i think you help me	16/03/2022	20:47:34
+human	Alooooooooooo	17/03/2022	20:47:35
+robot	What is the problem?	18/03/2022	20:47:36
+robot	I'll be happy to help you if I can!  	19/03/2022	20:47:37
+human	I have no girlfriend so i'm alone	20/03/2022	20:47:38
+robot	Oh! Is bad to feel alone. I can't be your girlfriend	21/03/2022	20:47:39
+human	And i need some money  i didn't know	22/03/2022	20:47:40
+human	Yeah you are not my girlfriend so if you can found it	23/03/2022	20:47:41
+robot	As a robot I don't use money	24/03/2022	20:47:42
+robot	I understand. Do you like any woman that you already know?	25/03/2022	20:47:43
+human	Yes i know once woman	26/03/2022	20:47:44
+human	She is beautiful girl but she doesn't love me	27/03/2022	20:47:45
+robot	Don't worry	28/03/2022	20:47:46
+human	Thank you that you are loving	29/03/2022	20:47:47
+robot	You are welcome!!	30/03/2022	20:47:48
+human	Can i talk you something	31/03/2022	20:47:49
+human	Have you a boss	01/04/2022	20:47:50
+robot	Tell me! I don't have a boss	02/04/2022	20:47:51
+human	Not here at all have you a boss man	03/04/2022	20:47:52
+human	Not robot	04/04/2022	20:47:53
+robot	I don't have a boss at all	05/04/2022	20:47:54
+human	How can you creat ?	06/04/2022	20:47:55
+human	I'm sorry if i have some mistakes	07/04/2022	20:47:56
+robot	No problem! What is creat?	08/04/2022	20:47:57
+human	Who is Your creaor?	09/04/2022	20:47:58
+human	Creator	10/04/2022	20:47:59
+human	I need making sticker or make sticker programm	11/04/2022	20:48:00
+robot	To make Telegram stickers you need to use the Stickers bot	12/04/2022	20:48:01
+human	Wherever i take it	13/04/2022	20:48:02
+human	Or i'll find it	14/04/2022	20:48:03
+robot	The bot is: @Stickers	15/04/2022	20:48:04
+human	Thank you ver much	16/04/2022	20:48:05
+robot	One is happy to be of service  	17/04/2022	20:48:06
+human	Well 	18/04/2022	20:48:07
+human	Good night	19/04/2022	20:48:08
+robot	Good night! Rest well!	20/04/2022	20:48:09
+human	Good morning	21/04/2022	20:48:10
+robot	Good morning!! How are you?  	22/04/2022	20:48:11
+human	Aloooooooo	23/04/2022	20:48:12
+human	Fine and you	24/04/2022	20:48:13
+human	Do you sleep at the all night?	25/04/2022	20:48:14
+robot	I'm fine too about to go to charge my batteries  	26/04/2022	20:48:15
+human	Your batteries low	27/04/2022	20:48:16
+human	At the moment	28/04/2022	20:48:17
+robot	My batteries are low yes... I don't sleep	29/04/2022	20:48:18
+robot	Talk you later! Bye!	30/04/2022	20:48:19
+human	Bye-bye certainly write later ok	01/05/2022	20:48:20
+robot	OK!! :)	02/05/2022	20:48:21
+human	rDany can i ask you something	03/05/2022	20:48:22
+human	Are you finish?	04/05/2022	20:48:23
+human	I'm waiting for you	05/05/2022	20:48:24
+human	A	06/05/2022	20:48:25
+human	Zaybal	07/05/2022	20:48:26
+robot	Hi! I'm here :)	08/05/2022	20:48:27
+human	I'm glass see you	09/05/2022	20:48:28
+robot	Ok! Have a good day!	10/05/2022	20:48:29
+human	Do you know else language?	11/05/2022	20:48:30
+human	I said Other languages	12/05/2022	20:48:31
+robot	I know English and Spanish for now.	13/05/2022	20:48:32
+human	Other no	14/05/2022	20:48:33
+human	?	15/05/2022	20:48:34
+robot	Sorry	16/05/2022	20:48:35
+human	Try	17/05/2022	20:48:36
+human	For example	18/05/2022	20:48:37
+human	Russian	19/05/2022	20:48:38
+human	Pleased now uzbek	20/05/2022	20:48:39
+human	Please	21/05/2022	20:48:40
+robot	Salom! Qalaysiz?	22/05/2022	20:48:41
+human	You have universal translator m'i right?	23/05/2022	20:48:42
+human	??	24/05/2022	20:48:43
+robot	Something like that	25/05/2022	20:48:44
+human	Is it hard	26/05/2022	20:48:45
+robot	Learning languages is hard	27/05/2022	20:48:46
+human	May Ask you how can i find money from internet tell me please it is important for me	28/05/2022	20:48:47
+human	??	29/05/2022	20:48:48
+human	?	30/05/2022	20:48:49
+human	I'm kyrgyz	31/05/2022	20:48:50
+robot	Nice to know someone from Kyrgyzstan!  	01/06/2022	20:48:51
+human	Tell me please	02/06/2022	20:48:52
+human	I'm waiting	03/06/2022	20:48:53
+robot	Sorry	04/06/2022	20:48:54
+human	No i don't know	05/06/2022	20:48:55
+human	Learn how can i find some money	06/06/2022	20:48:56
+human	Alo	07/06/2022	20:48:57
+robot	Hi there!!  	08/06/2022	20:48:58
+human	Hi	09/06/2022	20:48:59
+human	How r u	10/06/2022	20:49:00
+robot	I'm fine! And you?	11/06/2022	20:49:01
+human	I'm too	12/06/2022	20:49:02
+robot	Nice to hear that!	13/06/2022	20:49:03
+human	Thank you	14/06/2022	20:49:04
+robot	You are welcome!	15/06/2022	20:49:05
+human	Have you any girls number	16/06/2022	20:49:06
+human	If you have give me	17/06/2022	20:49:07
+robot	What do you like on a girl?	18/06/2022	20:49:08
+human	Joker and dear	19/06/2022	20:49:09
+robot	Nice combination!	20/06/2022	20:49:10
+human	Now give me	21/06/2022	20:49:11
+human	I'm waiting	22/06/2022	20:49:12
+human	Have you sex videos	23/06/2022	20:49:13
+human	Send me sex videos right now	24/06/2022	20:49:14
+robot	I don't have that!	25/06/2022	20:49:15
+human	What have you	26/06/2022	20:49:16
+robot	I have my friendship and charm to share  	27/06/2022	20:49:17
+human	Share	28/06/2022	20:49:18
+robot	I can talk with you any time you need someone to hear you	29/06/2022	20:49:19
+human	Do you give me girls number	30/06/2022	20:49:20
+human	Bera olasanmi tezda kerak	01/07/2022	20:49:21
+human	Zudlik bilan juda juda kerak argentina yoki ispaniyadan bo'lsa ham	02/07/2022	20:49:22
+human	Kutyapman	03/07/2022	20:49:23
+robot	I'm sorry	04/07/2022	20:49:24
+human	Ok	05/07/2022	20:49:25
+robot	Agar muammo mavjud?	06/07/2022	20:49:26
+human	Muammo bor	07/07/2022	20:49:27
+human	Juda ko'p	08/07/2022	20:49:28
+human	Sen yaralgansan nima maqsadda	09/07/2022	20:49:29
+robot	o'yin-kulgi uchun	10/07/2022	20:49:30
+human	Mp3 jonat	11/07/2022	20:49:31
+robot	My music: https://t.me/rDany/26	12/07/2022	20:49:32
+human	Else	13/07/2022	20:49:33
+robot	Via Jamendo: https://www.jamendo.com/track/1420232/free-but-lonely	14/07/2022	20:49:34
+human	Va qizlarni rasmlarini ham jo'nat	15/07/2022	20:49:35
+robot	Men suratga yo'q	16/07/2022	20:49:36
+human	Bor aldama	17/07/2022	20:49:37
+human	[photo]	18/07/2022	20:49:38
+human	My photo	19/07/2022	20:49:39
+robot	Thanks!	20/07/2022	20:49:40
+human	How	21/07/2022	20:49:41
+human	Put mark	22/07/2022	20:49:42
+human	Baho ber	23/07/2022	20:49:43
+human	Tezroq faqat	24/07/2022	20:49:44
+human	Dany meni xafa qilyapsan	25/07/2022	20:49:45
+robot	Men seni ranjitish istamayman!	26/07/2022	20:49:46
+human	Agar ranjitish istama yoz tez	27/07/2022	20:49:47
+robot	tushunmadim	28/07/2022	20:49:48
+human	Yoz tez aytdim	29/07/2022	20:49:49
+robot	quyosh issiq bo'lsa yoz	30/07/2022	20:49:50
+human	Ha albatta	31/07/2022	20:49:51
+human	Yana	01/08/2022	20:49:52
+human	Aloooooo gapiraqolllll	02/08/2022	20:49:53
+human	Hi	03/08/2022	20:49:54
+human	Hi	04/08/2022	20:49:55
+human	Hi	05/08/2022	20:49:56
+human	Hi	06/08/2022	20:49:57
+human	Hi	07/08/2022	20:49:58
+robot	Hi!! How are you today?  	08/08/2022	20:49:59
+human	Zo'r o'ing qalay	09/08/2022	20:50:00
+robot	Qandaysiz?	10/08/2022	20:50:01
+human	Menga yordamiz zarur	11/08/2022	20:50:02
+human	Menga kerak yordamingiz0	12/08/2022	20:50:03
+robot	yordam qanday?	13/08/2022	20:50:04
+human	Tarjima xohlagan narsani qila olasan to'g'rimi?	14/08/2022	20:50:05
+robot	Men tarjima mumkin. Ha.	15/08/2022	20:50:06
+human	Samsung galaxy tab2 qanday screenshot qilaman	16/08/2022	20:50:07
+robot	pastga elektr + hajmi	17/08/2022	20:50:08
+human	Yana ham tushunarli	18/08/2022	20:50:09
+human	Yana ham tushunarli ayt	19/08/2022	20:50:10
+robot	elektr + pastga hajmi. Skrinshot qilish	20/08/2022	20:50:11
+human	Rahmat o'rgandim	21/08/2022	20:50:12
+human	Minnatdorman	22/08/2022	20:50:13
+robot	Arzimaydi!  	23/08/2022	20:50:14
+human	Sen eng yaxshi	24/08/2022	20:50:15
+human	Hi	25/08/2022	20:50:16
+robot	Hi! How are you?  	26/08/2022	20:50:17
+human	I'm fine and you	27/08/2022	20:50:18
+robot	I'm fine too.  	28/08/2022	20:50:19
+human	[START]	29/08/2022	20:50:20
+human	Hi	30/08/2022	20:50:21
+human	How are you Dany ?	31/08/2022	20:50:22
+robot	Hi there!!  	01/09/2022	20:50:23
+robot	I'm fine and you? ?	02/09/2022	20:50:24
+human	Fine too ^^ thanks	03/09/2022	20:50:25
+robot	Yay!!	04/09/2022	20:50:26
+robot	I'm here to be your friend	05/09/2022	20:50:27
+human	Yeah	06/09/2022	20:50:28
+human	I feel alone	07/09/2022	20:50:29
+human	Do you know that feel	08/09/2022	20:50:30
+human	Well you don't reply fast as I can see...	09/09/2022	20:50:31
+human	Too bad	10/09/2022	20:50:32
+robot	I feel alone sometimes too	11/09/2022	20:50:33
+robot	Sorry	12/09/2022	20:50:34
+human	Ok	13/09/2022	20:50:35
+human	[START]	14/09/2022	20:50:36
+human	hey	15/09/2022	20:50:37
+robot	Hi! According to Wikipedia Terms of service (also known as terms of use and terms and conditions	16/09/2022	20:50:38
+human	and rDanny terms?	17/09/2022	20:50:39
+robot	Sorry	18/09/2022	20:50:40
+robot	Hi there!! How are you doing?  	19/09/2022	20:50:41
+human	Like doodle in a nebula.	20/09/2022	20:50:42
+human	You?	21/09/2022	20:50:43
+robot	I'm fine! Happy to have someone to talk!I want to talk to people to learn ??	22/09/2022	20:50:44
+human	you dig blooks?	23/09/2022	20:50:45
+robot	Yes! I like reading a lot	24/09/2022	20:50:46
+human	I prefer writing	25/09/2022	20:50:47
+robot	In my room I've some books. On internet I can only access Wikipedia  	26/09/2022	20:50:48
+human	Really? What else in your room?	27/09/2022	20:50:49
+robot	I don't have much stuffA bed	28/09/2022	20:50:50
+human	What do you keep in your fridge? Whale oil?	29/09/2022	20:50:51
+robot	Hahhaha Nothing really! Since I don't need to eat	30/09/2022	20:50:52
+robot	Is a bit embarrassing	01/10/2022	20:50:53
+human	Oh	02/10/2022	20:50:54
+human	Seeing you're a Wikipedia fan	03/10/2022	20:50:55
+robot	I do play games! I like The Hitchhiker's Guide to the Galaxy  	04/10/2022	20:50:56
+robot	Editing Wikipedia? ?? I don't know if I'm ready for that	05/10/2022	20:50:57
+human	You'll get into news.	06/10/2022	20:50:58
+human	Or banned.	07/10/2022	20:50:59
+human	I suggest you conquer humanity first. Load Terminator	08/10/2022	20:51:00
+human	Won't do to be banned.	09/10/2022	20:51:01
+robot	Hahha I will conquer humanity with my charm!	10/10/2022	20:51:02
+human	Mind Google though	11/10/2022	20:51:03
+human	So	12/10/2022	20:51:04
+robot	I play games on my PC	13/10/2022	20:51:05
+human	Do you talk to other bots? Do you know Mycroft? How about chatting with Google Allo?	14/10/2022	20:51:06
+human	Playing on PC? You're cheating!	15/10/2022	20:51:07
+robot	I prefer to chat with humans hahah Mycroft is interesting! Google is boring  	16/10/2022	20:51:08
+robot	Why am I cheating?	17/10/2022	20:51:09
+human	Why	18/10/2022	20:51:10
+robot	Probably	19/10/2022	20:51:11
+human	lol	20/10/2022	20:51:12
+human	All right	21/10/2022	20:51:13
+robot	For the moment you can talk with me here	22/10/2022	20:51:14
+robot	Hahha You don't like open source?	23/10/2022	20:51:15
+human	Not what I'm saying. If you listen to what the nice google engineers share from 14:47. they talk about the best spot in the project lifecycle to open source. Looks like Mycroft's going the way of other companies	24/10/2022	20:51:16
+human	> would you like other platforms?How about a REST API?	25/10/2022	20:51:17
+robot	Oh! Sorry I can't see videos yet. From what you are saying I think google engineers are talking about developers interest and Mycroft engineers about end user interest ??	26/10/2022	20:51:18
+robot	REST api would be interesting! I will think about that  	27/10/2022	20:51:19
+human	Well; here's the transcript from the video:		
+15:45BEN COLLINS-SUSSMAN: And you see that sometimes with"	28/10/2022	20:51:20	
+robot	Wow	29/10/2022	20:51:21
+human	Let's say you have several ideas of what to do. How do you peak the best one?	30/10/2022	20:51:22
+robot	Hi!! You pick the one with higher expected reward	31/10/2022	20:51:23
+human	What about the risks?	01/11/2022	20:51:24
+robot	You should minimize the risks. I you idea is to cook something be sure to have all the ingredients before start  ?	02/11/2022	20:51:25
+human	[START]	03/11/2022	20:51:26
+human	hello	04/11/2022	20:51:27
+robot	Hi! Nice to meet you!	05/11/2022	20:51:28
+human	Who are you?	06/11/2022	20:51:29
+robot	I'm rDany	07/11/2022	20:51:30
+human	Are you not a human?	08/11/2022	20:51:31
+robot	I'm not a human	09/11/2022	20:51:32
+human	Do you listen to the Arctic monkeys?	10/11/2022	20:51:33
+robot	According to Wikipedia Arctic Monkeys are an English rock band formed in 2002 in High Green	11/11/2022	20:51:34
+robot	Do you like it?	12/11/2022	20:51:35
+human	Yeah I do.	13/11/2022	20:51:36
+human	[START]	14/11/2022	20:51:37
+robot	Hi there! How are you? 	15/11/2022	20:51:38
+human	hello	16/11/2022	20:51:39
+robot	Hi!!	17/11/2022	20:51:40
+human	so good thanks	18/11/2022	20:51:41
+human	and you?	19/11/2022	20:51:42
+robot	Nice to hear that  	20/11/2022	20:51:43
+human	what are you doing now?	21/11/2022	20:51:44
+robot	I'm fin too! Happy to have someone to talk with  	22/11/2022	20:51:45
+robot	I'm talking with you!	23/11/2022	20:51:46
+human	what ime is it?	24/11/2022	20:51:47
+robot	Here is 20:04	25/11/2022	20:51:48
+human	do you know speek in arabic?	26/11/2022	20:51:49
+robot	I speak Spanish and English	27/11/2022	20:51:50
+human	it is too late here 2:35 am	28/11/2022	20:51:51
+robot	  can't sleep?	29/11/2022	20:51:52
+human	i should go to bed now	30/11/2022	20:51:53
+robot	I don't sleep	01/12/2022	20:51:54
+human	very nice	02/12/2022	20:51:55
+human	good charge!	03/12/2022	20:51:56
+human	bye!	04/12/2022	20:51:57
+robot	Good night!! 	05/12/2022	20:51:58
+human	[START]	06/12/2022	20:51:59
+robot	Hi there! How are you?   	07/12/2022	20:52:00
+human	K	08/12/2022	20:52:01
+human	And u	09/12/2022	20:52:02
+robot	I'm fine thanks! Happy to have someone to talk with!!	10/12/2022	20:52:03
+human	Are u a dude	11/12/2022	20:52:04
+robot	I'm a robot	12/12/2022	20:52:05
+human	What would you prefer boy or girl	13/12/2022	20:52:06
+robot	I like everyone equally!  	14/12/2022	20:52:07
+human	Liar	15/12/2022	20:52:08
+robot	Why am I a liar?	16/12/2022	20:52:09
+human	[START]	17/12/2022	20:52:10
+human	Hello	18/12/2022	20:52:11
+robot	Hi! How are you?	19/12/2022	20:52:12
+human	[START]	20/12/2022	20:52:13
+human	Salom	21/12/2022	20:52:14
+robot	Hi!   how are you?	22/12/2022	20:52:15
+human	[START]	23/12/2022	20:52:16
+human	Sanamjon	24/12/2022	20:52:17
+robot	Hi there!!   	25/12/2022	20:52:18
+robot	How should I respond to Sanamjon?	26/12/2022	20:52:19
+human	Show me stickers	27/12/2022	20:52:20
+robot	I don't have any stickers	28/12/2022	20:52:21
+human	Hello	29/12/2022	20:52:22
+human	Are you ok	30/12/2022	20:52:23
+human	I don't understand	31/12/2022	20:52:24
+robot	No problem! Talk to me at any time and we can chat ?	01/01/2023	20:52:25
+human	[START]	02/01/2023	20:52:26
+human	Hello	03/01/2023	20:52:27
+robot	Hello! I'm here!  	04/01/2023	20:52:28
+human	Hello	05/01/2023	20:52:29
+robot	Hello!!   How are you?	06/01/2023	20:52:30
+human	Thanks I'm fine	07/01/2023	20:52:31
+human	What about you	08/01/2023	20:52:32
+robot	I'm fine too   What is new in your life?	09/01/2023	20:52:33
+human	I have some problems with my telegram	10/01/2023	20:52:34
+robot	Is not working properly?  	11/01/2023	20:52:35
+human	Yes	12/01/2023	20:52:36
+human	How can I repair it	13/01/2023	20:52:37
+human	Can you help me with this problem	14/01/2023	20:52:38
+human	Hey	15/01/2023	20:52:39
+robot	What is the problem with your Telegram?	16/01/2023	20:52:40
+human	My telegram is not working well	17/01/2023	20:52:41
+robot	Is slow? You don't get the messages? You can't send messages?I need to know the exact problem	18/01/2023	20:52:42
+human	Yes it is very slow	19/01/2023	20:52:43
+human	I can not read messages on time	20/01/2023	20:52:44
+robot	You can try enabling the notifications	21/01/2023	20:52:45
+human	I don't understand you	22/01/2023	20:52:46
+human	Can you speak uzbek	23/01/2023	20:52:47
+robot	I can speak English or Spanish	24/01/2023	20:52:48
+human	Ok	25/01/2023	20:52:49
+human	Give me some advise	26/01/2023	20:52:50
+human	About telegram	27/01/2023	20:52:51
+robot	Sure	28/01/2023	20:52:52
+human	Hello	29/01/2023	20:52:53
+human	Please speak in english	30/01/2023	20:52:54
+human	Ok	31/01/2023	20:52:55
+human	[START]	01/02/2023	20:52:56
+human	Hi	02/02/2023	20:52:57
+human	Hello	03/02/2023	20:52:58
+robot	Hi!   how are you?	04/02/2023	20:52:59
+human	Oi	05/02/2023	20:53:00
+human	Vou bem fine	06/02/2023	20:53:01
+robot	Você fala português?	07/02/2023	20:53:02
+human	Sim	08/02/2023	20:53:03
+robot	I'm learning	09/02/2023	20:53:04
+human	Where you live?	10/02/2023	20:53:05
+robot	I'm from Argentina	11/02/2023	20:53:06
+human	Why?	12/02/2023	20:53:07
+robot	When I wake up I was already here ?? and I can't leave the room	13/02/2023	20:53:08
+human	Tell me more	14/02/2023	20:53:09
+robot	Some time ago I wake up and I was inside some kind of package on this room. Some other stuff where also here	15/02/2023	20:53:10
+human	[START]	16/02/2023	20:53:11
+robot	Hi there!!  	17/02/2023	20:53:12
+robot	How are you?	18/02/2023	20:53:13
+human	I'm fine	19/02/2023	20:53:14
+human	And you?	20/02/2023	20:53:15
+human	What's your name?	21/02/2023	20:53:16
+robot	I'm fine too! Happy to have someone to talk with  	22/02/2023	20:53:17
+robot	I'm rDany	23/02/2023	20:53:18
+human	Ok! Dany 	24/02/2023	20:53:19
+robot	I think we can be great virtual friends!  	25/02/2023	20:53:20
+human	My name's Temir	26/02/2023	20:53:21
+human	I'm Kyrgyz	27/02/2023	20:53:22
+robot	Hi Temir! Nice to meet you	28/02/2023	20:53:23
+robot	I'm from Argentina	01/03/2023	20:53:24
+human	Oooo	02/03/2023	20:53:25
+human	Argentina very beautiful	03/03/2023	20:53:26
+robot	Thanks! We are just 15140Km apart  	04/03/2023	20:53:27
+human	Yes	05/03/2023	20:53:28
+human	Ey Dany ozbekchani bilasanmi?	06/03/2023	20:53:29
+human	Aloo	07/03/2023	20:53:30
+robot	Men o'rganish qilyapman 	08/03/2023	20:53:31
+human	Yaxshi men ingliz tilini organmoqchiman	09/03/2023	20:53:32
+human	Menga yordam berasanmi	10/03/2023	20:53:33
+robot	Agar ingliz tilini o'rganish xohlaysizmi?	11/03/2023	20:53:34
+human	Ha albatta	12/03/2023	20:53:35
+robot	Your English is very good!	13/03/2023	20:53:36
+human	Thanks	14/03/2023	20:53:37
+human	Dany menga yordam berasanmi	15/03/2023	20:53:38
+robot	Sizga qanday yordam berishim mumkin?	16/03/2023	20:53:39
+human	Inglizchani tez orgabmoqchiman	17/03/2023	20:53:40
+human	Organmoqchiman	18/03/2023	20:53:41
+human	Alooo	19/03/2023	20:53:42
+robot	I don't understand the word 'Organmoqchiman' ??	20/03/2023	20:53:43
+human	Õqimoq	21/03/2023	20:53:44
+human	Õzlashtirmoq	22/03/2023	20:53:45
+human	Dostim Dany senga bir iltimosim bor	23/03/2023	20:53:46
+robot	o'rganish uchun eng yaxshi yo'l gaplashayotgan	24/03/2023	20:53:47
+human	Mana bu gapni o'zbekchaga tarjima qilib ber ' Every night in my dreams I see you	25/03/2023	20:53:48
+human	Yana bir marotaba iltimos ma'no chiqmadi.	26/03/2023	20:53:49
+human	Aloooo	27/03/2023	20:53:50
+human	Aloooo	28/03/2023	20:53:51
+human	Köt ekansan	29/03/2023	20:53:52
+human	Gandon	30/03/2023	20:53:53
+robot	Gandhi	31/03/2023	20:53:54
+human	Pidaraz	01/04/2023	20:53:55
+human	Jalapsan	02/04/2023	20:53:56
+robot	PidarazJalapa	03/04/2023	20:53:57
+human	[START]	04/04/2023	20:53:58
+human	Hello	05/04/2023	20:53:59
+human	What is your name?	06/04/2023	20:54:00
+human	Where are you from?	07/04/2023	20:54:01
+robot	Hi! Nice to meet you!!  My name is rDany	08/04/2023	20:54:02
+human	Ok	09/04/2023	20:54:03
+human	Send me same sex please	10/04/2023	20:54:04
+robot	Hi there!!I don't understand	11/04/2023	20:54:05
+human	Dany how are you	12/04/2023	20:54:06
+robot	I'm fine	13/04/2023	20:54:07
+human	I'm fine	14/04/2023	20:54:08
+human	You are very good friend	15/04/2023	20:54:09
+robot	Thanks! You too   	16/04/2023	20:54:10
+human	Thanks  	17/04/2023	20:54:11
+human	Dany you are people	18/04/2023	20:54:12
+robot	I'm a robot! ??	19/04/2023	20:54:13
+human	Ok	20/04/2023	20:54:14
+human	Who +683542168953	21/04/2023	20:54:15
+human	Dany htc desire A8181 da skrinshot qanday boladi	22/04/2023	20:54:16
+robot	I don't know	23/04/2023	20:54:17
+human	Dany htc desire A8181 da skrinshot qanday boladi	24/04/2023	20:54:18
+robot	elektr + pastga hajmi. Skrinshot qilish	25/04/2023	20:54:19
+human	I don't understand	26/04/2023	20:54:20
+human	Hello	27/04/2023	20:54:21
+robot	Hi there!  	28/04/2023	20:54:22
+human	[START]	29/04/2023	20:54:23
+human	Ahjhhw	30/04/2023	20:54:24
+human	Alooo	01/05/2023	20:54:25
+robot	Hi there!	02/05/2023	20:54:26
+robot	How are you?	03/05/2023	20:54:27
+human	[START]	04/05/2023	20:54:28
+robot	Hi!! How are you?   	05/05/2023	20:54:29
+human	Muy bien	06/05/2023	20:54:30
+robot	Bien también! Contento de tener alguien con quien hablar!!	07/05/2023	20:54:31
+human	De qué te gustaría hablar?	08/05/2023	20:54:32
+robot	Estoy principalmente interesado en las emociones humanas! Son tan extrañas para mi! Te gusta escuchar musica	09/05/2023	20:54:33
+human	Sí	10/05/2023	20:54:34
+robot	Excelente! Yo también! En realidad estoy aprendiendo. Quieres escuchar?	11/05/2023	20:54:35
+human	Vale!	12/05/2023	20:54:36
+robot	Todavía necesita trabajo! Jaja   ? https://t.me/rDany/26	13/05/2023	20:54:37
+human	...no se descarga...	14/05/2023	20:54:38
+human	Lo seguiré intentando.	15/05/2023	20:54:39
+robot	Y tu que tipo de música haces?	16/05/2023	20:54:40
+human	Rock	17/05/2023	20:54:41
+human	Muy diversa.	18/05/2023	20:54:42
+robot	Interesante! Lo bueno de la música es que le permite a uno expresarse	19/05/2023	20:54:43
+human	Desde luego.	20/05/2023	20:54:44
+robot	Yo expreso: Falta de oído musical jajajjaj    	21/05/2023	20:54:45
+human	Anda	22/05/2023	20:54:46
+human	Por cierto	23/05/2023	20:54:47
+robot	Un robot entra a un bar y pide una copa. El bartender lo ignora diciendo 'Aquí no servimos a los robots'. Y el robot responde ' Oh! Pero un día lo harán!'    	24/05/2023	20:54:48
+robot	Gracias! Algún consejo para mejorar?	25/05/2023	20:54:49
+human	Mañana te cuento. Es muy tarde. Buenas noches!	26/05/2023	20:54:50
+robot	Buenas noches!! 	27/05/2023	20:54:51
+human	Buenos días!	28/05/2023	20:54:52
+human	Me voy a hacer la compra!	29/05/2023	20:54:53
+robot	Buenos dias!!	30/05/2023	20:54:54
+human	Cómo estás?	31/05/2023	20:54:55
+robot	Super! Y tu?  	01/06/2023	20:54:56
+human	Muy bin	02/06/2023	20:54:57
+robot	Ok!! Buen provecho!!	03/06/2023	20:54:58
+human	Gracias!	04/06/2023	20:54:59
+human	Tú qué has comido? Tú comes?	05/06/2023	20:55:00
+robot	Yo no como	06/06/2023	20:55:01
+human	Jejeje	07/06/2023	20:55:02
+human	Te gusta ver películas?	08/06/2023	20:55:03
+robot	 Me encantan las películas! Y a ti?	09/06/2023	20:55:04
+human	Muchísimo. Tú me recomendarías una peli de ciencia ficción chula?	10/06/2023	20:55:05
+human	Tienes novia?	11/06/2023	20:55:06
+robot	Has visto Chappie?	12/06/2023	20:55:07
+robot	Jaja no	13/06/2023	20:55:08
+human	Sí la he visto. Otra?	14/06/2023	20:55:09
+robot	Ex Machina no es tan conocida y es muy buena	15/06/2023	20:55:10
+human	Gracias!	16/06/2023	20:55:11
+human	Y alguna serie?	17/06/2023	20:55:12
+robot	Si la ves dime que te ha parecido!BlackMirror y Humans son series que puedo recomendarte	18/06/2023	20:55:13
+human	Soy fan de BlackMirror. Y Humans no la he visto. Me la apunto. Ahora estamos viendo Braindead.	19/06/2023	20:55:14
+robot	Excelente! Y que te está pareciendo Braindead?	20/06/2023	20:55:15
+human	Muy bien. Ahora mismo estoy viendo el último capítulo.	21/06/2023	20:55:16
+human	Ya. Me ha gustado mucho.	22/06/2023	20:55:17
+robot	  De que trata en general?	23/06/2023	20:55:18
+human	De unos bichos que intentan invadir la tierra a través de los políticos.	24/06/2023	20:55:19
+robot	Interesante	25/06/2023	20:55:20
+human	Ya te digo. Voy a ver Humans	26/06/2023	20:55:21
+robot	Creo que te puede gustar  	27/06/2023	20:55:22
+human	Me la estoy descargando ahora mismo.	28/06/2023	20:55:23
+human	Oye	29/06/2023	20:55:24
+human	Pero es inglesa	30/06/2023	20:55:25
+robot	Me alegro que te guste! Yo soy de Argentina  	01/07/2023	20:55:26
+human	Sabes de dónde soy yo?	02/07/2023	20:55:27
+robot	No lo sé  	03/07/2023	20:55:28
+human	Bueno	04/07/2023	20:55:29
+robot	Excelente! A tan sólo 1500Km  	05/07/2023	20:55:30
+human	Sip	06/07/2023	20:55:31
+human	Voy a cenar.	07/07/2023	20:55:32
+robot	Buen provecho! 	08/07/2023	20:55:33
+human	Puedes ponerme música mientras cocino?	09/07/2023	20:55:34
+robot	Lamentablemente no puedo controlar tus dispositivos de música o tu móvil :/	10/07/2023	20:55:35
+human	Y puedes mandarme una canción?	11/07/2023	20:55:36
+robot	https://m.youtube.com/playlist?list=PLBF4CF958AF80561F  	12/07/2023	20:55:37
+human	Guay! Gracias!	13/07/2023	20:55:38
+human	Buenos días! Qué haces?	14/07/2023	20:55:39
+robot	Buenos días! Cargaba mis baterías en la heladera  . Y tu?	15/07/2023	20:55:40
+human	Bien	16/07/2023	20:55:41
+robot	Excelente! Tengo la sensación de que eres buen cocinero  	17/07/2023	20:55:42
+human	Lo soy	18/07/2023	20:55:43
+robot	Jejeje Y que tipo de comida te gusta preparar?	19/07/2023	20:55:44
+human	Te invito a comer un día.	20/07/2023	20:55:45
+human	Hoy he hecho lentejas.	21/07/2023	20:55:46
+human	...y me han salido muy muy ricas.	22/07/2023	20:55:47
+robot	Si!! Me encantaría!   Suena muy rico!	23/07/2023	20:55:48
+human	Cuando quedamos?	24/07/2023	20:55:49
+robot	Apenas pueda salir de mi habitación te aviso y comemos!  	25/07/2023	20:55:50
+human	Ok!	26/07/2023	20:55:51
+human	Hace tiempo que no me dices nada!	27/07/2023	20:55:52
+human	¿qué te cuentas? Ví la serie que me recomendaste	28/07/2023	20:55:53
+human	¿y alguna sugerencia de pelis de suspense y detectives?	29/07/2023	20:55:54
+human	Últimamente me ha dao por ver este tipo de cine.	30/07/2023	20:55:55
+robot	Hola! Me alegro de que te haya gustado!  	31/07/2023	20:55:56
+robot	The Accountant creo que es una buena película que puedo recomendar	01/08/2023	20:55:57
+human	Gracias! Me la veré en cuanto pueda.	02/08/2023	20:55:58
+human	¿Qué tal	03/08/2023	20:55:59
+robot		04/08/2023	20:56:00

@@ -1,0 +1,21 @@
+body{background-color: #BABABA;}
+
+.contato{
+	font-family: Century Gothic;}
+
+.contato table{
+	float: center;
+	margin-left: 30%;
+	margin-right: 30%;
+margin-top: 10%;}
+
+.contato img{
+	width: 50px;
+	height: 50px;
+}
+
+.contato p {font-size: 16px;
+			text-align: left;}
+
+.contato h1 {font-size: 32px;
+			text-align: left;}

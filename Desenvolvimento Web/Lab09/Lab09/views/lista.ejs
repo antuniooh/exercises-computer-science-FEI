@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de Usuários</title>
+    <style>
+        .table{width: 30%;}
+        /*Definido cor das linhas pares*/
+        .table tr:nth-child(even) {
+            background: #FFFFFF;
+        }
+        /*Definindo cor das Linhas impáres*/
+        .table tr:nth-child(odd) {
+
+            background: #000000;
+            color: #FFFFFF;
+        }
+        button{
+            background-color: blueviolet;
+            color: #FFFFFF;}
+    </style>
+</head>
+<body>
+<h1>Lista de Usuários</h1>
+<img src="lista.jpg" width="200px" height="200px"><br>
+
+<div class="menu">
+    <ul>
+        <li><a href="login">Login</a> </li>
+        <li><a href="cadastro">Cadastrar</a> </li>
+        <li><a href="lista">Listar</a> </li>
+    </ul>
+</div>
+
+<table class="table">
+    <tr>
+        <td>Login</td>
+        <td>Nome</td>
+        <td>Senha</td>
+    </tr>
+
+    <% for(i = 0; i < usuarios.length; i++)
+    { %>
+    <tr>
+        <td><%= usuarios[i].login %></td>
+        <td><%= usuarios[i].nome %></td>
+        <td><%= usuarios[i].senha %></td>
+    </tr>
+
+    <%}%>
+
+</table>
+<br>
+
+</body>
+</html>
