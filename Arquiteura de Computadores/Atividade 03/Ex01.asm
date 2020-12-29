@@ -1,0 +1,32 @@
+;ex 01
+MOV R0, #02h
+MOV R1, #02h
+MOV R2, #01h
+MOV R3, #01h
+MOV R4, #9h
+MOV R5, #00h
+MOV R6, #00h
+MOV R7, #01h
+
+SETB RS0
+MOV R0, #02h
+MOV R1, #02h
+MOV R2, #01h
+MOV R3, #01h
+MOV R4, #9h
+MOV R5, #00h
+MOV R6, #00h
+MOV R7, #01h
+CLR A
+ADD A, R0
+ADD A, R1
+ADD A, R2
+ADD A, R3
+ADD A, R4
+ADD A, R5
+ADD A, R6
+ADD A, R7
+
+;bank 3
+SETB RS1
+MOV R0, A

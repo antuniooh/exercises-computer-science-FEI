@@ -1,0 +1,8 @@
+DELAY:
+	MOV R0, #199; 1
+ROT1:
+	NOP;1
+	DJNZ R0, ROT1; 199*3
+RET; 2
+
+;T = 3 + 199*3 = 600

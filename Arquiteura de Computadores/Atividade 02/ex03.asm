@@ -1,0 +1,6 @@
+MOV A, R
+MOV B, R0
+DIV AB
+MOV R5, A
+MOV R4, B
+
