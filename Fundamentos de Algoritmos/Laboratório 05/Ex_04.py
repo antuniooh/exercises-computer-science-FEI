@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[6]:
 
 
 numeros =[]
-negativos =[]
-positivos = []
-nulos = []
+impar =[]
+par = []
 
 while True:
     num = input("Digite um número: ")
@@ -18,17 +17,14 @@ while True:
     else:
         num = int(num)
         numeros.append(num)
-        if num > 0:
-            positivos.append(num)
-        elif num < 0:
-            negativos.append(num)
-        else:
-            nulos.append(num)
+        if num % 2 == 0:
+            par.append(num)
+        elif num % 2 == 1:
+            impar.append(num)
             
 print("Lista de Todos os numeros:", numeros)
-print("Lista de Todos os numeros positivos:", positivos)
-print("Lista de Todos os numeros negativos:", negativos)
-print("Lista de Todos os numeros nulos:", nulos)
+print("Lista de Todos os numeros pares:", par)
+print("Lista de Todos os numeros impares:", impar)
 
 
 # In[ ]:
