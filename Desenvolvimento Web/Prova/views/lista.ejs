@@ -1,0 +1,16 @@
+<!Doctype html>
+<html lang="pt-br">
+<body>
+<h1>Lista de idosos Cadastrados</h1>
+
+<table>
+<% for (var i = 0; i  < idosos.lenght; i ++){%>
+    <tr>
+        <td><%=idosos[i].dbnome%></td>
+        <td><%=idosos[i].dbendereco%></td>
+        <td><%=idosos[i].dbidade%></td>
+    </tr>
+    <%}%>
+</table>
+</body>
+</html>
