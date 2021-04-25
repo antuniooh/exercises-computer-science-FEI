@@ -318,4 +318,66 @@ Além disso, a janela principal deve ter um menu que permita a abertura de outra
 
 ## Laboratório 13
 
-A técnica de pomodoro envolve concentrar-se em uma tarefa por períodos de 25 minutos e então parar por um intervalo de tempo curto. Assim, vamos construir um cronômetro que fará a contagem regressiva por 25 minutos (para testar, vamos construir um que trabalhe com 25 segundos) e alertará o usuário quando o tempo acabar (caixa de mensagem). O janela principal deve ter um menu que permita a abertura de uma nova janela que exibe um log com todas as tarefas completas. Siga o layout abaixo:
+A técnica de pomodoro envolve concentrar-se em uma tarefa por períodos de 25 minutos e então parar por um intervalo de tempo curto. Assim, vamos construir um cronômetro que fará a contagem regressiva por 25 minutos (para testar, vamos construir um que trabalhe com 25 segundos) e alertará o usuário quando o tempo acabar (caixa de mensagem). O janela principal deve ter um menu que permita a abertura de uma nova janela que exibe um log com todas as tarefas completas.
+
+## Laboratório 14
+
+**1.** Existem restrições para que uma pessoa possa doar sangue. Uma delas é relativa ao peso. Mulheres tem que pesar no mínimo 50kg e homens no mínimo 60kg. Faça um módulo que contenha uma função para informar se uma pessoa está ou não apta a doar sangue sabendo seu sexo e seu peso. O programa principal deve ler as entradas, acionar a função que retorna true ou false e exibir a resposta.
+
+**2.** Escreva um módulo que contenha uma função que receba os comprimentos dos dois lados mais curtos de um triângulo retângulo (catetos) como seus parâmetros. A função deve retornar a hipotenusa do triângulo, calculada usando o teorema de Pitágoras. Escreva também o programa principal que recebe do usuário os comprimentos dos catetos do triângulo retângulo, chama a função para calcular a hipotenusa e exibe o resultado.
+
+**3.** .Muitas pessoas não usam letras maiúsculas corretamente, especialmente ao digitar em pequenos dispositivos como smartphones. Neste exercício, você escreverá um módulo composto por uma função que capitaliza os caracteres apropriados em uma string. O primeiro caractere da string deve ser sempre capitalizado, assim como o primeiro caractere após “.”, “!” ou “?”.Por exemplo, se a função for fornecida com a string “que horas tenho que estar lá? qual é o endereço? ” então deve retornar a string “Que horas eu tenho que estar lá? Qual é o endereço?". Escreva também o programa principal que deve receber uma string do usuário, chamar a função enviando a stringoriginal e exibir o resultado, com a string alterada.
+
+**4.** Neste exercício, você deve programar um módulo composto por 4 funções que, juntas, servirão para determinar se uma senha é boa ou não. Uma boa senha deve ter:
+
+a.Pelo menos 8 caracteres (1ª função)
+
+b.Pelo menos uma letra maiúscula (2ª função)
+
+c.Pelo menos uma letra minúscula (3ª função)
+
+d.Pelo menos um número (4ª função)
+
+Cada função deve retornar true ou false para a senha recebida. Faça também um programa principal que leia uma senha do usuário, chame cada função de verificação e relate se a senha é boa ou não. 
+
+**5.** Você deve criar um módulo composto por uma função chamada isInteger que determina se os caracteres em uma string representam ou não um inteiro válido. Uma string representa um inteiro se seu comprimento for pelo menos igual a 1 e contém apenas dígitos, ou se seu primeiro caractere for + ou - e o primeiro caractere é seguido por um ou mais caracteres, todos os quais são dígitos. Escreva um programa principal que lê uma string do usuário e informa se ele representa ou não um inteiro por meio da função criada. 
+
+**6.** Crie um módulo com 2 funções que, juntas, servirão para a criação de placas de veículos. A primeira função deve gerar 3 letras aleatoriamente e a segunda função deve gerar 4 números inteiros aleatoriamente. Escreva um programa principal que chama as duas funções e exibe a placa criada.
+
+## Laboratório 15
+
+Seu trabalho vai ser realizar a busca de palavras suspeitas em conversas armazenadas em um arquivo e exibir a frequência que a palavra procurada aparece. Além disso, você deve exibir os trechos das conversas em que a palavra apareceu, assim como o dia e o horário em que foram postadas (estes dados seriam a parte que poderia ir para um algoritmo de IA analisar o contexto para dizer se o discurso é de ódio ou não)Você precisa tratar letras maiúsculas e minúsculas, caracteres especiais e pontuação! Você deve fazer isso com interface gráfica!
+
+![image](images/lab15_01.png)
+
+## Prova
+
+**Ex 01**
+
+Seu trabalho vai ser realizar o cálculo do consumo de energia elétrica, em kWh, de uma casa com 4 tipos de equipamentos: Lâmpadas, Tomadas, Chuveiro e Ar Condicionado.
+
+O usuário do seu programa deve saber o consumo total do mês 
+
+Além disso, o usuário deve poder saber o consumo de sua residência em qualquer período estabelecido, desde que sejam informados a data e horário inicial, assim como, a data e horário final.
+
+O usuário ainda pode ler os consumos independentes de cada equipamento, ou conjunto de equipamentos. 
+
+Você deve fazer isso com interface gráfica!
+
+![image](images/p1_01.png)
+![image](images/p1_02.png)
+
+**Ex 02**
+
+O jogo deve começar sorteando uma palavra do arquivo palavras.txt 
+
+Então, o usuário, deve chutar as letras da palavra secreta e tentar acertá-la. Lembre-se de que o usuário não deve poder ver a palavra secreta.
+
+O usuário pode errar a letra 5 vezes. No sexto erro, o jogo termina. 
+
+O jogo deve verificar se a letra digitada pelo usuário já foi ou não digitada. Letras repetidas não devem contar! As letras digitadas devem ser exibidas na tela!
+
+O jogo deve também mostrar a quantidade de letras da palavra secreta, assim como as letras corretas em suas devidas posições.
+
+![image](images/p1_03.png)
+![image](images/p1_04.png)
