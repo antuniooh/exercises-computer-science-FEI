@@ -1,4 +1,4 @@
-# ExercisesFEI
+# Exercícios - Ciência da Computação, Centro Universitário FEI
 
 -TODO
 
