@@ -1,13 +1,12 @@
 # Exercícios - Ciência da Computação, Centro Universitário FEI
 
--TODO
+- README/ name
+* Análise e Complexidade de Algoritmos/
+* Computação Movel
+* Cálculo Numérico/
+* Desenvolvimento de Algoritmos
+* Estrutura de Dados
+* Probabilidade e Estatistica/
+* Topicos Avançados de Rede/
 
-Desenvolvimento de Algoritmos
 
-Arquitetura
-
-Computação Movel
-
-Cálculo Numerico
-
-Estrutura de Dados
