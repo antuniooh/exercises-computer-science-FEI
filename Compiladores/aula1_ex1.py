@@ -1,4 +1,4 @@
-state_initial = "001"
+state_initial = "0010"
 
 # 010
 # 0* | 1*
