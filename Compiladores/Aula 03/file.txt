@@ -1,0 +1,8 @@
+rasengan chakra soma(){
+    rasengan num1 = 1;
+    rasengan num2 = 1;
+
+    rasengan soma = num1 + num2;
+    sharingan(soma);
+    kamui soma;
+}
