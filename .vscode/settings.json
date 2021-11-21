@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.html": "njk",
+        "time.h": "c"
+    }
+}
