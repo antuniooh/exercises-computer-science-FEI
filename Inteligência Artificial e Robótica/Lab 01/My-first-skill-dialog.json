@@ -1,0 +1,475 @@
+{
+  "intents": [
+    {
+      "intent": "coordenadora",
+      "examples": [
+        {
+          "text": "qual o nome da coordenadora?"
+        },
+        {
+          "text": "quem coordena?"
+        },
+        {
+          "text": "quem é a coordenadora?"
+        },
+        {
+          "text": "quem é o coordenador?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "despedida",
+      "examples": [
+        {
+          "text": "obrigado"
+        },
+        {
+          "text": "tchau"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "email",
+      "examples": [
+        {
+          "text": "como me comunicar?"
+        },
+        {
+          "text": "contato"
+        },
+        {
+          "text": "onde posso mandar um email?"
+        },
+        {
+          "text": "preciso mandar um email"
+        },
+        {
+          "text": "qual o email?"
+        },
+        {
+          "text": "qual o email de contato?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "materias",
+      "examples": [
+        {
+          "text": "quais materias posso fazer IC?"
+        },
+        {
+          "text": "Quais materias possuem IC?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "numeroProjetos",
+      "examples": [
+        {
+          "text": "Qual o número de projetos"
+        },
+        {
+          "text": "quantos projetos foram submetidos?"
+        },
+        {
+          "text": "quantos projetos PIBIC ja foram enviados?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "oqueé",
+      "examples": [
+        {
+          "text": "o que é?"
+        },
+        {
+          "text": "o que é o programa de iniciação?"
+        },
+        {
+          "text": "o que é pibc?"
+        },
+        {
+          "text": "o que significa?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "participar",
+      "examples": [
+        {
+          "text": "como participar?"
+        },
+        {
+          "text": "como participar do programa de iniciação cientifica?"
+        },
+        {
+          "text": "quero participar do programa de iniciação cientifica"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "projetosandamento",
+      "examples": [
+        {
+          "text": "quais os projetos em andamento?"
+        },
+        {
+          "text": "quais sao os projetos em andamento"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "saudar",
+      "examples": [
+        {
+          "text": "Boa noite"
+        },
+        {
+          "text": "Boa tarde"
+        },
+        {
+          "text": "Bom dia"
+        },
+        {
+          "text": "Como vai?"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Oi"
+        },
+        {
+          "text": "Ola"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "curso",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Administração",
+          "synonyms": [
+            "adm"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ciência da Computação",
+          "synonyms": [
+            "CC",
+            "ciencia computacao",
+            "computação"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ciências sociais",
+          "synonyms": [
+            "Ciências social",
+            "c.social"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Engenharia Civil",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Engenharia de Materiais",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Engenharia de Produção",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Engenharia Eletrica",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Engenharia Mecanica",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Engenharia Quimica",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Engenharia Textil",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Fisica",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Matematica",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular a frase."
+              },
+              {
+                "text": "Você pode reescrever? Não compreendi."
+              },
+              {
+                "text": "Não consegui compreender."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_3_1625413249149",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O aluno deve procurar um professor do departamento, com disponibilidade para orientação e verificar as vagas disponíveis para projetos de iniciação. Tendo sido selecionado um aluno, o professor deve então elaborar uma proposta de projeto individual, dentro dos moldes exigidos pela Comissão de Iniciação Científica e encaminhá-la à Coordenação. O aluno não poderá ter nenhuma dependência e o tempo de dedicação para a realização do projeto é de no mínimo 16 horas semanais. A Fundação Educacional Inaciana Pe. Sabóia de Medeiros oferece bolsas de iniciação científica aos melhores alunos, pelo prazo de até um ano."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#participar",
+      "dialog_node": "node_10_1625413613245",
+      "previous_sibling": "node_2_1625412925641"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O e-mail de contato da iniciação cientifica é: \"iniciacao_cientifica@fei.edu.br\". "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#email",
+      "dialog_node": "node_1_1645663331183",
+      "previous_sibling": "node_8_1645663198759"
+    },
+    {
+      "type": "standard",
+      "title": "Saudação",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, tudo bem? Vejo que veio conhecer mais sobre o IC, como posso te ajudar?"
+              },
+              {
+                "text": "Seja bem-vindo(a), vejo que quer conhecer mais sobre o IC, sinta-se a vontade para perguntar!"
+              },
+              {
+                "text": "Saudações meu caro(a)! Vejo que quer saber mais sobre o IC, diga-me o que deseja!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#saudar",
+      "dialog_node": "node_2_1625412925641",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Administração\nCiência da Computação\nCiências Sociais\nEngenharia Civil\nEngenharia de Materiais\nEngenharia de Produção\nEngenharia Elétrica\nEngenharia Mecânica\nEngenharia Química\nEngenharia Têxtil\nFísica\nMatemática"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#materias",
+      "dialog_node": "node_2_1645664611354",
+      "previous_sibling": "node_1_1645663331183"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ficamos sempre felizes em te ajudar!"
+              },
+              {
+                "text": "Até mais, estaremos sempre a disposição!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#despedida",
+      "dialog_node": "node_3_1625413249149",
+      "previous_sibling": "node_2_1645664611354"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O Programa de Iniciação Científica visa introduzir os alunos de graduação na metodologia científica aplicada a projetos de pesquisa científica e tecnológica. Este Programa destina-se a alunos com bom rendimento acadêmico que buscam complementar sua formação através da execução de projetos de pesquisa, elaboração de relatórios e divulgação dos seus resultados em eventos de pesquisas científicas e de investigação tecnológica."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#oqueé",
+      "dialog_node": "node_7_1645663112190",
+      "previous_sibling": "node_10_1625413613245"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para maiores informações acesse:  https://fei.edu.br/sites/iniciacao/projetos-submetidos.pdf"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#numeroProjetos",
+      "dialog_node": "node_7_1645663904634",
+      "previous_sibling": "node_7_1645663112190"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A coordenadora é a Profª. Drª. Michelly de Souza. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#coordenadora",
+      "dialog_node": "node_8_1645663198759",
+      "previous_sibling": "node_7_1645663904634"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá. Sou o ChatBot da FEI, como posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "My first skill",
+  "language": "en",
+  "description": ""
+}
